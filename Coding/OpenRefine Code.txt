@@ -1,0 +1,87 @@
+[
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Name",
+    "columnName": "Name"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Sex",
+    "columnName": "Sex"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Crime",
+    "columnName": "Crime"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Victim Count",
+    "columnName": "Victim Count"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Victim Sex",
+    "columnName": "Victim Sex"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column County",
+    "columnName": "County"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Victim Race",
+    "columnName": "Victim Race"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Juvenile",
+    "columnName": "Juvenile"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Volunteer",
+    "columnName": "Volunteer"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Federal",
+    "columnName": "Federal"
+  },
+  {
+    "op": "core/column-removal",
+    "description": "Remove column Foreign National",
+    "columnName": "Foreign National"
+  },
+  {
+    "op": "core/mass-edit",
+    "description": "Mass edit cells in column State",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "mode": "text",
+          "invert": false,
+          "caseSensitive": false,
+          "query": "fe",
+          "name": "State",
+          "type": "text",
+          "columnName": "State"
+        }
+      ]
+    },
+    "columnName": "State",
+    "expression": "value",
+    "edits": [
+      {
+        "fromBlank": false,
+        "fromError": false,
+        "from": [
+          "FE"
+        ],
+        "to": "NM"
+      }
+    ]
+  }
+]

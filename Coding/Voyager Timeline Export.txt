@@ -1,0 +1,34 @@
+[
+  {
+    "data": {
+      "name": "source"
+    },
+    "mark": "line",
+    "encoding": {
+      "x": {
+        "timeUnit": "year",
+        "field": "Date",
+        "type": "temporal",
+        "scale": {}
+      },
+      "color": {
+        "field": "Race",
+        "type": "nominal"
+      },
+      "y": {
+        "aggregate": "mean",
+        "field": "Age",
+        "type": "quantitative"
+      }
+    },
+    "config": {
+      "line": {
+        "point": true
+      },
+      "scale": {
+        "useUnaggregatedDomain": true
+      }
+    },
+    "description": "this timeline shows the average age of each demographic by year"
+  }
+]

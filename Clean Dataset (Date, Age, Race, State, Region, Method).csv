@@ -1,0 +1,1443 @@
+Date,Age,Race,State,Region,Method
+1977-01-17T00:00:00Z,36,White,UT,West,Firing Squad
+1979-05-25T00:00:00Z,30,White,FL,South,Electrocution
+1979-10-22T00:00:00Z,46,White,NV,West,Gas Chamber
+1981-09-03T00:00:00Z,24,White,IN,Midwest,Electrocution
+1982-10-08T00:00:00Z,38,White,VA,South,Electrocution
+1982-07-12T00:00:00Z,40,Black,TX,South,Lethal Injection
+1983-04-22T00:00:00Z,33,White,AL,South,Electrocution
+1983-02-09T00:00:00Z,34,White,MS,South,Gas Chamber
+1983-11-30T00:00:00Z,36,White,FL,South,Electrocution
+1983-12-14T00:00:00Z,31,Black,LA,South,Electrocution
+1983-12-15T00:00:00Z,53,White,GA,South,Electrocution
+1984-01-26T00:00:00Z,66,White,FL,South,Electrocution
+1984-02-29T00:00:00Z,30,Black,LA,South,Electrocution
+1984-03-14T00:00:00Z,29,White,TX,South,Lethal Injection
+1984-03-16T00:00:00Z,54,White,NC,South,Lethal Injection
+1984-03-31T00:00:00Z,39,White,TX,South,Lethal Injection
+1984-05-04T00:00:00Z,30,White,FL,South,Electrocution
+1984-05-04T00:00:00Z,35,White,LA,South,Electrocution
+1984-10-05T00:00:00Z,47,Black,FL,South,Electrocution
+1984-06-20T00:00:00Z,30,White,FL,South,Electrocution
+1984-12-07T00:00:00Z,28,Black,GA,South,Electrocution
+1984-07-13T00:00:00Z,34,Black,FL,South,Electrocution
+1984-07-09T00:00:00Z,46,White,FL,South,Electrocution
+1984-10-09T00:00:00Z,46,White,LA,South,Electrocution
+1984-09-20T00:00:00Z,34,Black,FL,South,Electrocution
+1984-12-10T00:00:00Z,30,Black,VA,South,Electrocution
+1984-10-30T00:00:00Z,38,Black,LA,South,Electrocution
+1984-10-30T00:00:00Z,39,White,TX,South,Lethal Injection
+1984-02-11T00:00:00Z,52,White,NC,South,Lethal Injection
+1984-08-11T00:00:00Z,37,White,FL,South,Electrocution
+1984-12-12T00:00:00Z,39,Black,GA,South,Electrocution
+1984-12-28T00:00:00Z,26,White,LA,South,Electrocution
+1985-04-01T00:00:00Z,32,White,LA,South,Electrocution
+1985-09-01T00:00:00Z,28,Black,GA,South,Electrocution
+1985-11-01T00:00:00Z,29,White,SC,South,Electrocution
+1985-01-16T00:00:00Z,48,White,TX,South,Lethal Injection
+1985-01-30T00:00:00Z,33,White,FL,South,Electrocution
+1985-02-20T00:00:00Z,41,Black,GA,South,Electrocution
+1985-06-03T00:00:00Z,41,White,FL,South,Electrocution
+1985-03-13T00:00:00Z,37,White,TX,South,Lethal Injection
+1985-03-20T00:00:00Z,28,Black,GA,South,Electrocution
+1985-04-18T00:00:00Z,28,Black,VA,South,Electrocution
+1985-05-15T00:00:00Z,24,Latino,TX,South,Lethal Injection
+1985-05-29T00:00:00Z,39,Black,FL,South,Electrocution
+1985-06-25T00:00:00Z,34,Black,TX,South,Lethal Injection
+1985-06-25T00:00:00Z,32,Black,VA,South,Electrocution
+1985-09-07T00:00:00Z,43,Latino,TX,South,Lethal Injection
+1985-11-09T00:00:00Z,28,White,TX,South,Lethal Injection
+1985-10-16T00:00:00Z,37,White,IN,Midwest,Electrocution
+1985-06-12T00:00:00Z,47,White,NV,West,Lethal Injection
+1986-10-01T00:00:00Z,25,White,SC,South,Electrocution
+1986-12-03T00:00:00Z,29,White,TX,South,Lethal Injection
+1986-03-21T00:00:00Z,47,Black,AL,South,Electrocution
+1986-04-15T00:00:00Z,37,Black,FL,South,Electrocution
+1986-04-16T00:00:00Z,28,White,TX,South,Lethal Injection
+1986-04-22T00:00:00Z,39,Black,FL,South,Electrocution
+1986-05-15T00:00:00Z,24,White,TX,South,Lethal Injection
+1986-05-20T00:00:00Z,42,White,FL,South,Electrocution
+1986-09-06T00:00:00Z,50,Latino,TX,South,Lethal Injection
+1986-06-19T00:00:00Z,37,White,TX,South,Lethal Injection
+1986-06-24T00:00:00Z,34,Black,GA,South,Electrocution
+1986-07-31T00:00:00Z,40,Black,VA,South,Electrocution
+1986-08-20T00:00:00Z,36,White,TX,South,Lethal Injection
+1986-08-22T00:00:00Z,30,Black,TX,South,Lethal Injection
+1986-08-26T00:00:00Z,37,White,TX,South,Lethal Injection
+1986-09-19T00:00:00Z,27,White,NC,South,Lethal Injection
+1986-04-12T00:00:00Z,30,Black,TX,South,Lethal Injection
+1986-12-18T00:00:00Z,25,Latino,TX,South,Lethal Injection
+1987-01-30T00:00:00Z,44,Latino,TX,South,Lethal Injection
+1987-04-03T00:00:00Z,27,Latino,TX,South,Lethal Injection
+1987-05-15T00:00:00Z,35,Black,GA,South,Electrocution
+1987-05-20T00:00:00Z,26,Black,MS,South,Gas Chamber
+1987-05-22T00:00:00Z,44,Black,GA,South,Electrocution
+1987-05-28T00:00:00Z,27,Black,TX,South,Lethal Injection
+1987-05-29T00:00:00Z,31,White,GA,South,Electrocution
+1987-07-06T00:00:00Z,31,White,LA,South,Electrocution
+1987-09-06T00:00:00Z,27,Black,LA,South,Electrocution
+1987-12-06T00:00:00Z,25,White,LA,South,Electrocution
+1987-06-16T00:00:00Z,35,White,LA,South,Electrocution
+1987-06-24T00:00:00Z,28,Black,TX,South,Lethal Injection
+1987-06-07T00:00:00Z,41,White,VA,South,Electrocution
+1987-08-07T00:00:00Z,27,Black,MS,South,Gas Chamber
+1987-08-07T00:00:00Z,32,White,TX,South,Lethal Injection
+1987-07-20T00:00:00Z,30,Black,LA,South,Electrocution
+1987-07-24T00:00:00Z,31,Black,LA,South,Electrocution
+1987-07-30T00:00:00Z,25,White,LA,South,Electrocution
+1987-08-24T00:00:00Z,36,White,LA,South,Electrocution
+1987-08-28T00:00:00Z,33,White,AL,South,Electrocution
+1987-08-28T00:00:00Z,34,Black,UT,West,Lethal Injection
+1987-08-28T00:00:00Z,41,Black,FL,South,Electrocution
+1987-01-09T00:00:00Z,35,Black,GA,South,Electrocution
+1987-10-09T00:00:00Z,34,White,TX,South,Lethal Injection
+1987-09-21T00:00:00Z,35,White,GA,South,Electrocution
+1988-07-01T00:00:00Z,27,White,TX,South,Lethal Injection
+1988-03-15T00:00:00Z,54,Black,FL,South,Electrocution
+1988-03-15T00:00:00Z,38,White,LA,South,Electrocution
+1988-04-13T00:00:00Z,34,Black,LA,South,Electrocution
+1988-04-14T00:00:00Z,33,Black,VA,South,Electrocution
+1988-10-06T00:00:00Z,37,White,UT,West,Lethal Injection
+1988-06-14T00:00:00Z,28,White,LA,South,Electrocution
+1988-07-28T00:00:00Z,34,White,GA,South,Electrocution
+1988-03-11T00:00:00Z,37,Black,TX,South,Lethal Injection
+1988-07-11T00:00:00Z,33,White,FL,South,Electrocution
+1988-12-13T00:00:00Z,39,Black,TX,South,Lethal Injection
+1989-06-01T00:00:00Z,44,White,MO,Midwest,Lethal Injection
+1989-01-24T00:00:00Z,42,White,FL,South,Electrocution
+1989-03-22T00:00:00Z,44,Black,TX,South,Lethal Injection
+1989-04-05T00:00:00Z,31,White,FL,South,Electrocution
+1989-05-18T00:00:00Z,36,Black,GA,South,Electrocution
+1989-05-24T00:00:00Z,41,White,TX,South,Lethal Injection
+1989-05-26T00:00:00Z,28,Black,AL,South,Electrocution
+1989-06-19T00:00:00Z,51,White,NV,West,Lethal Injection
+1989-06-21T00:00:00Z,36,Black,MS,South,Gas Chamber
+1989-06-23T00:00:00Z,28,White,NV,West,Lethal Injection
+1989-07-14T00:00:00Z,28,Black,AL,South,Electrocution
+1989-08-18T00:00:00Z,43,Black,AL,South,Electrocution
+1989-08-30T00:00:00Z,34,Black,VA,South,Electrocution
+1989-09-20T00:00:00Z,44,White,TX,South,Lethal Injection
+1989-11-17T00:00:00Z,43,Black,AL,South,Electrocution
+1989-07-12T00:00:00Z,27,Latino,TX,South,Lethal Injection
+1990-01-18T00:00:00Z,31,White,MO,Midwest,Lethal Injection
+1990-04-21T00:00:00Z,54,Black,TX,South,Lethal Injection
+1990-04-27T00:00:00Z,35,White,SC,South,Electrocution
+1990-04-05T00:00:00Z,43,White,FL,South,Electrocution
+1990-11-05T00:00:00Z,39,Black,MO,Midwest,Lethal Injection
+1990-05-17T00:00:00Z,30,White,TX,South,Lethal Injection
+1990-05-17T00:00:00Z,40,White,MO,Midwest,Lethal Injection
+1990-05-18T00:00:00Z,30,Black,LA,South,Electrocution
+1990-03-06T00:00:00Z,26,White,NV,West,Lethal Injection
+1990-06-18T00:00:00Z,46,White,AR,South,Electrocution
+1990-06-25T00:00:00Z,49,White,AR,South,Lethal Injection
+1990-06-26T00:00:00Z,37,Black,TX,South,Lethal Injection
+1990-07-13T00:00:00Z,35,Black,AL,South,Electrocution
+1990-07-18T00:00:00Z,33,White,TX,South,Lethal Injection
+1990-07-19T00:00:00Z,27,White,VA,South,Electrocution
+1990-07-27T00:00:00Z,38,Black,FL,South,Electrocution
+1990-08-31T00:00:00Z,44,White,MO,Midwest,Lethal Injection
+1990-10-09T00:00:00Z,43,White,OK,South,Lethal Injection
+1990-12-09T00:00:00Z,50,White,IL,Midwest,Lethal Injection
+1990-09-21T00:00:00Z,61,White,FL,South,Electrocution
+1990-10-17T00:00:00Z,44,Black,VA,South,Electrocution
+1990-11-19T00:00:00Z,49,White,FL,South,Electrocution
+1990-12-13T00:00:00Z,38,White,VA,South,Electrocution
+1991-02-26T00:00:00Z,38,Black,TX,South,Lethal Injection
+1991-04-24T00:00:00Z,32,White,FL,South,Electrocution
+1991-05-23T00:00:00Z,59,Latino,TX,South,Lethal Injection
+1991-06-17T00:00:00Z,54,White,TX,South,Lethal Injection
+1991-06-25T00:00:00Z,46,Black,FL,South,Electrocution
+1991-07-22T00:00:00Z,35,Black,LA,South,Electrocution
+1991-07-24T00:00:00Z,31,White,VA,South,Electrocution
+1991-08-22T00:00:00Z,30,Black,VA,South,Electrocution
+1991-08-23T00:00:00Z,36,Black,MO,Midwest,Lethal Injection
+1991-06-09T00:00:00Z,58,White,SC,South,Electrocution
+1991-09-19T00:00:00Z,42,Black,TX,South,Lethal Injection
+1991-09-25T00:00:00Z,44,Black,GA,South,Electrocution
+1991-10-18T00:00:00Z,36,White,NC,South,Lethal Injection
+1991-12-11T00:00:00Z,54,White,TX,South,Lethal Injection
+1992-01-22T00:00:00Z,42,White,WY,West,Lethal Injection
+1992-01-22T00:00:00Z,39,Latino,TX,South,Lethal Injection
+1992-01-24T00:00:00Z,40,Black,AR,South,Lethal Injection
+1992-11-02T00:00:00Z,28,White,TX,South,Lethal Injection
+1992-02-28T00:00:00Z,32,White,TX,South,Lethal Injection
+1992-03-03T00:00:00Z,38,White,TX,South,Lethal Injection
+1992-10-03T00:00:00Z,37,Black,OK,South,Lethal Injection
+1992-03-13T00:00:00Z,46,White,OK,South,Lethal Injection
+1992-03-14T00:00:00Z,34,White,DE,South,Lethal Injection
+1992-03-20T00:00:00Z,40,White,AL,South,Electrocution
+1992-06-04T00:00:00Z,43,White,AZ,West,Gas Chamber
+1992-04-21T00:00:00Z,39,White,CA,West,Gas Chamber
+1992-04-23T00:00:00Z,34,Black,TX,South,Lethal Injection
+1992-07-05T00:00:00Z,46,White,TX,South,Lethal Injection
+1992-07-05T00:00:00Z,25,White,AR,South,Lethal Injection
+1992-12-05T00:00:00Z,43,White,FL,South,Electrocution
+1992-05-20T00:00:00Z,27,Latino,TX,South,Lethal Injection
+1992-05-20T00:00:00Z,33,White,VA,South,Electrocution
+1992-05-22T00:00:00Z,45,White,TX,South,Lethal Injection
+1992-07-21T00:00:00Z,47,Black,FL,South,Electrocution
+1992-07-23T00:00:00Z,34,White,VA,South,Electrocution
+1992-07-30T00:00:00Z,37,Black,UT,West,Lethal Injection
+1992-11-08T00:00:00Z,38,Black,TX,South,Lethal Injection
+1992-09-15T00:00:00Z,34,Black,VA,South,Electrocution
+1992-09-22T00:00:00Z,37,Black,TX,South,Lethal Injection
+1992-10-21T00:00:00Z,33,White,MO,Midwest,Lethal Injection
+1992-10-23T00:00:00Z,34,White,NC,South,Lethal Injection
+1992-11-19T00:00:00Z,37,Black,TX,South,Lethal Injection
+1992-11-20T00:00:00Z,36,Black,AL,South,Electrocution
+1992-10-12T00:00:00Z,33,White,VA,South,Electrocution
+1992-10-12T00:00:00Z,29,Black,TX,South,Lethal Injection
+1993-05-01T00:00:00Z,31,White,WA,West,Hanging
+1993-01-19T00:00:00Z,39,Black,VA,South,Electrocution
+1993-01-27T00:00:00Z,35,Black,MO,Midwest,Lethal Injection
+1993-03-03T00:00:00Z,27,White,AZ,West,Lethal Injection
+1993-03-03T00:00:00Z,39,Native American,DE,South,Lethal Injection
+1993-05-03T00:00:00Z,41,White,LA,South,Lethal Injection
+1993-03-18T00:00:00Z,36,Black,VA,South,Electrocution
+1993-03-23T00:00:00Z,40,Latino,TX,South,Lethal Injection
+1993-03-25T00:00:00Z,38,Latino,TX,South,Lethal Injection
+1993-04-14T00:00:00Z,35,White,AZ,West,Lethal Injection
+1993-04-21T00:00:00Z,48,White,FL,South,Electrocution
+1993-04-05T00:00:00Z,38,Black,TX,South,Lethal Injection
+1993-05-05T00:00:00Z,49,White,FL,South,Electrocution
+1993-12-05T00:00:00Z,44,Latino,TX,South,Lethal Injection
+1993-05-18T00:00:00Z,37,White,TX,South,Lethal Injection
+1993-06-17T00:00:00Z,36,White,VA,South,Electrocution
+1993-06-28T00:00:00Z,36,White,GA,South,Electrocution
+1993-06-29T00:00:00Z,46,White,TX,South,Lethal Injection
+1993-01-07T00:00:00Z,31,Black,TX,South,Lethal Injection
+1993-07-21T00:00:00Z,32,Black,MO,Midwest,Lethal Injection
+1993-07-28T00:00:00Z,29,Black,MO,Midwest,Lethal Injection
+1993-07-30T00:00:00Z,32,Black,TX,South,Lethal Injection
+1993-05-08T00:00:00Z,39,White,TX,South,Lethal Injection
+1993-12-08T00:00:00Z,58,White,TX,South,Lethal Injection
+1993-08-20T00:00:00Z,34,Black,TX,South,Lethal Injection
+1993-08-24T00:00:00Z,26,Latino,TX,South,Lethal Injection
+1993-08-24T00:00:00Z,36,White,CA,West,Gas Chamber
+1993-08-25T00:00:00Z,33,White,FL,South,Electrocution
+1993-08-31T00:00:00Z,33,Black,DE,South,Lethal Injection
+1993-08-31T00:00:00Z,29,Black,TX,South,Lethal Injection
+1993-03-09T00:00:00Z,39,White,TX,South,Lethal Injection
+1993-09-14T00:00:00Z,31,Black,VA,South,Electrocution
+1993-09-28T00:00:00Z,33,Black,TX,South,Lethal Injection
+1993-06-10T00:00:00Z,47,White,MO,Midwest,Lethal Injection
+1993-10-11T00:00:00Z,32,White,TX,South,Lethal Injection
+1993-07-12T00:00:00Z,33,White,GA,South,Electrocution
+1993-12-15T00:00:00Z,59,Black,TX,South,Lethal Injection
+1993-12-16T00:00:00Z,44,White,VA,South,Electrocution
+1994-06-01T00:00:00Z,31,White,ID,West,Lethal Injection
+1994-02-02T00:00:00Z,51,White,TX,South,Lethal Injection
+1994-03-03T00:00:00Z,32,Black,VA,South,Electrocution
+1994-03-31T00:00:00Z,45,Black,GA,South,Electrocution
+1994-03-31T00:00:00Z,33,Black,TX,South,Lethal Injection
+1994-04-04T00:00:00Z,38,White,TX,South,Lethal Injection
+1994-04-22T00:00:00Z,38,White,FL,South,Electrocution
+1994-04-26T00:00:00Z,41,White,TX,South,Lethal Injection
+1994-04-27T00:00:00Z,32,Black,VA,South,Electrocution
+1994-03-05T00:00:00Z,46,Black,TX,South,Lethal Injection
+1994-10-05T00:00:00Z,52,White,IL,Midwest,Lethal Injection
+1994-11-05T00:00:00Z,39,Black,AR,South,Lethal Injection
+1994-11-05T00:00:00Z,50,White,AR,South,Lethal Injection
+1994-05-17T00:00:00Z,44,White,MD,South,Lethal Injection
+1994-05-27T00:00:00Z,33,White,TX,South,Lethal Injection
+1994-05-27T00:00:00Z,39,White,WA,West,Hanging
+1994-06-14T00:00:00Z,38,White,TX,South,Lethal Injection
+1994-06-15T00:00:00Z,38,White,NC,South,Gas Chamber
+1994-06-23T00:00:00Z,45,Black,DE,South,Lethal Injection
+1994-02-08T00:00:00Z,35,White,TX,South,Lethal Injection
+1994-03-08T00:00:00Z,37,White,AR,South,Lethal Injection
+1994-03-08T00:00:00Z,43,White,AR,South,Lethal Injection
+1994-03-08T00:00:00Z,37,White,AR,South,Lethal Injection
+1994-02-09T00:00:00Z,43,Black,NE,Midwest,Electrocution
+1994-09-16T00:00:00Z,29,Latino,TX,South,Lethal Injection
+1994-09-20T00:00:00Z,47,White,TX,South,Lethal Injection
+1994-05-10T00:00:00Z,32,Black,TX,South,Lethal Injection
+1994-11-22T00:00:00Z,34,White,TX,South,Lethal Injection
+1994-06-12T00:00:00Z,48,Black,TX,South,Lethal Injection
+1994-08-12T00:00:00Z,43,Black,IN,Midwest,Electrocution
+1994-11-12T00:00:00Z,53,White,TX,South,Lethal Injection
+1995-04-01T00:00:00Z,44,White,TX,South,Lethal Injection
+1995-01-17T00:00:00Z,36,Latino,TX,South,Lethal Injection
+1995-01-24T00:00:00Z,37,White,NC,South,Lethal Injection
+1995-01-24T00:00:00Z,32,Black,VA,South,Lethal Injection
+1995-01-31T00:00:00Z,33,White,TX,South,Lethal Injection
+1995-01-31T00:00:00Z,38,Black,TX,South,Lethal Injection
+1995-07-02T00:00:00Z,29,White,TX,South,Lethal Injection
+1995-02-16T00:00:00Z,51,White,TX,South,Lethal Injection
+1995-02-21T00:00:00Z,51,Black,TX,South,Lethal Injection
+1995-03-17T00:00:00Z,27,White,DE,South,Lethal Injection
+1995-03-20T00:00:00Z,32,White,OK,South,Lethal Injection
+1995-03-22T00:00:00Z,40,Black,IL,Midwest,Lethal Injection
+1995-03-22T00:00:00Z,41,White,IL,Midwest,Lethal Injection
+1995-06-04T00:00:00Z,41,White,TX,South,Lethal Injection
+1995-07-04T00:00:00Z,31,White,GA,South,Electrocution
+1995-04-19T00:00:00Z,64,White,AR,South,Lethal Injection
+1995-04-28T00:00:00Z,47,Black,AL,South,Electrocution
+1995-02-05T00:00:00Z,39,White,PA,Northeast,Lethal Injection
+1995-03-05T00:00:00Z,42,Black,MO,Midwest,Lethal Injection
+1995-10-05T00:00:00Z,43,White,MT,West,Lethal Injection
+1995-12-05T00:00:00Z,43,Black,AL,South,Electrocution
+1995-05-16T00:00:00Z,59,Black,LA,South,Lethal Injection
+1995-05-17T00:00:00Z,39,White,GA,South,Electrocution
+1995-05-17T00:00:00Z,37,Black,IL,Midwest,Lethal Injection
+1995-05-25T00:00:00Z,49,Black,VA,South,Lethal Injection
+1995-01-06T00:00:00Z,34,White,TX,South,Lethal Injection
+1995-08-06T00:00:00Z,34,Black,TX,South,Lethal Injection
+1995-06-20T00:00:00Z,40,Black,TX,South,Lethal Injection
+1995-06-21T00:00:00Z,40,Black,MO,Midwest,Lethal Injection
+1995-06-21T00:00:00Z,30,Black,TX,South,Lethal Injection
+1995-01-07T00:00:00Z,43,White,OK,South,Lethal Injection
+1995-07-18T00:00:00Z,42,White,FL,South,Electrocution
+1995-07-26T00:00:00Z,32,Black,MO,Midwest,Lethal Injection
+1995-11-08T00:00:00Z,40,White,OK,South,Lethal Injection
+1995-08-15T00:00:00Z,39,Black,TX,South,Lethal Injection
+1995-08-15T00:00:00Z,52,White,PA,Northeast,Lethal Injection
+1995-08-18T00:00:00Z,39,Black,SC,South,Lethal Injection
+1995-08-31T00:00:00Z,41,Black,AR,South,Lethal Injection
+1995-09-13T00:00:00Z,49,White,AZ,West,Lethal Injection
+1995-09-19T00:00:00Z,40,Black,TX,South,Lethal Injection
+1995-09-20T00:00:00Z,58,White,IL,Midwest,Lethal Injection
+1995-09-22T00:00:00Z,34,White,NC,South,Lethal Injection
+1995-09-27T00:00:00Z,54,White,VA,South,Lethal Injection
+1995-04-10T00:00:00Z,50,White,TX,South,Lethal Injection
+1995-10-19T00:00:00Z,38,White,VA,South,Lethal Injection
+1995-11-13T00:00:00Z,31,Black,VA,South,Lethal Injection
+1995-11-15T00:00:00Z,33,White,MO,Midwest,Lethal Injection
+1995-11-22T00:00:00Z,47,White,IL,Midwest,Lethal Injection
+1995-11-29T00:00:00Z,44,White,MO,Midwest,Lethal Injection
+1995-04-12T00:00:00Z,47,Black,FL,South,Electrocution
+1995-05-12T00:00:00Z,40,White,FL,South,Electrocution
+1995-06-12T00:00:00Z,44,White,MO,Midwest,Lethal Injection
+1995-06-12T00:00:00Z,33,Black,TX,South,Lethal Injection
+1995-07-12T00:00:00Z,40,Asian,TX,South,Lethal Injection
+1995-11-12T00:00:00Z,31,Latino,TX,South,Lethal Injection
+1995-12-12T00:00:00Z,40,White,TX,South,Lethal Injection
+1996-04-01T00:00:00Z,34,White,VA,South,Lethal Injection
+1996-01-23T00:00:00Z,45,Black,VA,South,Lethal Injection
+1996-01-25T00:00:00Z,49,White,DE,South,Hanging
+1996-01-27T00:00:00Z,36,White,UT,West,Firing Squad
+1996-01-30T00:00:00Z,41,Black,DE,South,Lethal Injection
+1996-09-02T00:00:00Z,38,White,TX,South,Lethal Injection
+1996-02-16T00:00:00Z,38,Black,AL,South,Electrocution
+1996-02-21T00:00:00Z,29,White,MO,Midwest,Lethal Injection
+1996-02-23T00:00:00Z,49,White,CA,West,Lethal Injection
+1996-02-27T00:00:00Z,45,Black,TX,South,Lethal Injection
+1996-01-03T00:00:00Z,42,Black,LA,South,Lethal Injection
+1996-03-30T00:00:00Z,42,White,NV,West,Lethal Injection
+1996-10-04T00:00:00Z,48,White,MO,Midwest,Lethal Injection
+1996-04-19T00:00:00Z,39,White,DE,South,Lethal Injection
+1996-04-26T00:00:00Z,38,White,OK,South,Lethal Injection
+1996-03-05T00:00:00Z,48,White,CA,West,Lethal Injection
+1996-05-31T00:00:00Z,51,White,SC,South,Lethal Injection
+1996-06-19T00:00:00Z,29,White,AZ,West,Lethal Injection
+1996-07-17T00:00:00Z,37,White,VA,South,Lethal Injection
+1996-07-17T00:00:00Z,33,White,NE,Midwest,Electrocution
+1996-07-18T00:00:00Z,42,Black,IN,Midwest,Lethal Injection
+1996-07-19T00:00:00Z,47,White,SC,South,Lethal Injection
+1996-07-31T00:00:00Z,55,Native American,MO,Midwest,Lethal Injection
+1996-07-08T00:00:00Z,34,Black,MO,Midwest,Lethal Injection
+1996-08-08T00:00:00Z,41,White,AR,South,Lethal Injection
+1996-09-08T00:00:00Z,42,White,OK,South,Lethal Injection
+1996-08-21T00:00:00Z,39,White,MO,Midwest,Lethal Injection
+1996-08-22T00:00:00Z,45,Latino,AZ,West,Lethal Injection
+1996-06-09T00:00:00Z,35,White,SC,South,Lethal Injection
+1996-06-09T00:00:00Z,56,White,OR,West,Lethal Injection
+1996-09-18T00:00:00Z,36,Latino,TX,South,Lethal Injection
+1996-09-18T00:00:00Z,44,Black,IL,Midwest,Lethal Injection
+1996-04-10T00:00:00Z,47,White,SC,South,Electrocution
+1996-10-21T00:00:00Z,38,Black,FL,South,Electrocution
+1996-11-14T00:00:00Z,45,White,GA,South,Electrocution
+1996-11-15T00:00:00Z,48,White,GA,South,Electrocution
+1996-11-15T00:00:00Z,41,White,SC,South,Lethal Injection
+1996-11-21T00:00:00Z,42,Black,VA,South,Lethal Injection
+1996-11-22T00:00:00Z,33,Black,SC,South,Lethal Injection
+1996-03-12T00:00:00Z,30,White,VA,South,Lethal Injection
+1996-06-12T00:00:00Z,41,Black,FL,South,Electrocution
+1996-10-12T00:00:00Z,33,Black,VA,South,Lethal Injection
+1996-11-12T00:00:00Z,40,White,MO,Midwest,Lethal Injection
+1996-12-12T00:00:00Z,44,White,VA,South,Lethal Injection
+1996-12-16T00:00:00Z,39,White,VA,South,Lethal Injection
+1997-08-01T00:00:00Z,30,Black,AR,South,Lethal Injection
+1997-08-01T00:00:00Z,49,Latino,AR,South,Lethal Injection
+1997-08-01T00:00:00Z,47,White,AR,South,Lethal Injection
+1997-10-01T00:00:00Z,44,White,AL,South,Electrocution
+1997-01-23T00:00:00Z,47,White,AZ,West,Lethal Injection
+1997-01-29T00:00:00Z,35,White,MO,Midwest,Lethal Injection
+1997-06-02T00:00:00Z,39,White,VA,South,Lethal Injection
+1997-10-02T00:00:00Z,41,White,TX,South,Lethal Injection
+1997-02-26T00:00:00Z,39,Black,VA,South,Lethal Injection
+1997-12-03T00:00:00Z,32,Black,TX,South,Lethal Injection
+1997-03-25T00:00:00Z,39,Latino,FL,South,Electrocution
+1997-02-04T00:00:00Z,39,White,TX,South,Lethal Injection
+1997-03-04T00:00:00Z,40,White,TX,South,Lethal Injection
+1997-04-14T00:00:00Z,50,White,TX,South,Lethal Injection
+1997-04-16T00:00:00Z,36,White,TX,South,Lethal Injection
+1997-04-21T00:00:00Z,53,White,TX,South,Lethal Injection
+1997-04-24T00:00:00Z,35,White,LA,South,Lethal Injection
+1997-04-29T00:00:00Z,55,White,TX,South,Lethal Injection
+1997-02-05T00:00:00Z,62,Black,AL,South,Electrocution
+1997-06-05T00:00:00Z,33,Black,TX,South,Lethal Injection
+1997-08-05T00:00:00Z,22,Native American,OK,South,Lethal Injection
+1997-05-13T00:00:00Z,36,Black,TX,South,Lethal Injection
+1997-05-16T00:00:00Z,38,White,TX,South,Lethal Injection
+1997-05-16T00:00:00Z,56,White,OR,West,Lethal Injection
+1997-05-19T00:00:00Z,39,White,TX,South,Lethal Injection
+1997-05-20T00:00:00Z,42,White,TX,South,Lethal Injection
+1997-05-21T00:00:00Z,37,Black,TX,South,Lethal Injection
+1997-05-22T00:00:00Z,47,White,TX,South,Lethal Injection
+1997-05-28T00:00:00Z,34,White,TX,South,Lethal Injection
+1997-02-06T00:00:00Z,33,Black,TX,South,Lethal Injection
+1997-03-06T00:00:00Z,34,Black,TX,South,Lethal Injection
+1997-04-06T00:00:00Z,32,Latino,TX,South,Lethal Injection
+1997-04-06T00:00:00Z,30,Black,TX,South,Lethal Injection
+1997-06-06T00:00:00Z,42,White,AL,South,Electrocution
+1997-11-06T00:00:00Z,33,White,TX,South,Lethal Injection
+1997-06-13T00:00:00Z,41,White,SC,South,Lethal Injection
+1997-06-16T00:00:00Z,38,White,TX,South,Lethal Injection
+1997-06-17T00:00:00Z,44,Black,TX,South,Lethal Injection
+1997-06-18T00:00:00Z,30,Latino,TX,South,Lethal Injection
+1997-06-25T00:00:00Z,51,White,AZ,West,Lethal Injection
+1997-01-07T00:00:00Z,44,White,KY,South,Electrocution
+1997-02-07T00:00:00Z,38,Black,MD,South,Lethal Injection
+1997-07-17T00:00:00Z,50,White,VA,South,Lethal Injection
+1997-07-23T00:00:00Z,55,White,VA,South,Lethal Injection
+1997-07-29T00:00:00Z,35,Native American,TX,South,Lethal Injection
+1997-06-08T00:00:00Z,42,White,MO,Midwest,Lethal Injection
+1997-06-08T00:00:00Z,53,White,AR,South,Lethal Injection
+1997-08-13T00:00:00Z,54,White,MO,Midwest,Lethal Injection
+1997-08-19T00:00:00Z,35,Black,VA,South,Lethal Injection
+1997-08-20T00:00:00Z,32,White,MO,Midwest,Lethal Injection
+1997-09-09T00:00:00Z,34,Black,TX,South,Lethal Injection
+1997-09-17T00:00:00Z,25,Latino,VA,South,Lethal Injection
+1997-09-22T00:00:00Z,37,Black,TX,South,Lethal Injection
+1997-09-24T00:00:00Z,48,Black,MO,Midwest,Lethal Injection
+1997-09-25T00:00:00Z,45,White,TX,South,Lethal Injection
+1997-09-30T00:00:00Z,38,White,TX,South,Lethal Injection
+1997-01-10T00:00:00Z,41,Black,TX,South,Lethal Injection
+1997-08-10T00:00:00Z,36,White,TX,South,Lethal Injection
+1997-10-13T00:00:00Z,53,White,CO,West,Lethal Injection
+1997-10-22T00:00:00Z,39,White,MO,Midwest,Lethal Injection
+1997-10-28T00:00:00Z,34,Black,TX,South,Lethal Injection
+1997-04-11T00:00:00Z,43,Asian,TX,South,Lethal Injection
+1997-06-11T00:00:00Z,30,White,TX,South,Lethal Injection
+1997-07-11T00:00:00Z,32,Black,SC,South,Lethal Injection
+1997-11-13T00:00:00Z,44,Black,VA,South,Lethal Injection
+1997-11-19T00:00:00Z,42,Black,IL,Midwest,Lethal Injection
+1997-11-19T00:00:00Z,43,White,TX,South,Lethal Injection
+1997-11-19T00:00:00Z,42,Black,IL,Midwest,Lethal Injection
+1997-11-20T00:00:00Z,40,Black,IN,Midwest,Lethal Injection
+1997-11-21T00:00:00Z,35,Black,TX,South,Lethal Injection
+1997-02-12T00:00:00Z,61,Black,NE,Midwest,Electrocution
+1997-09-12T00:00:00Z,29,Black,VA,South,Lethal Injection
+1997-09-12T00:00:00Z,37,White,TX,South,Lethal Injection
+1997-11-12T00:00:00Z,26,White,VA,South,Lethal Injection
+1998-01-21T00:00:00Z,44,White,IL,Midwest,Lethal Injection
+1998-01-21T00:00:00Z,42,Latino,AZ,West,Lethal Injection
+1998-01-29T00:00:00Z,47,White,IN,Midwest,Lethal Injection
+1998-01-30T00:00:00Z,38,White,NC,South,Gas Chamber
+1998-03-02T00:00:00Z,38,White,TX,South,Lethal Injection
+1998-09-02T00:00:00Z,40,White,TX,South,Lethal Injection
+1998-10-02T00:00:00Z,33,Black,VA,South,Lethal Injection
+1998-02-20T00:00:00Z,35,White,OK,South,Lethal Injection
+1998-02-24T00:00:00Z,31,White,MT,West,Lethal Injection
+1998-02-25T00:00:00Z,29,Black,MO,Midwest,Lethal Injection
+1998-06-03T00:00:00Z,43,White,SC,South,Lethal Injection
+1998-11-03T00:00:00Z,47,White,TX,South,Lethal Injection
+1998-03-18T00:00:00Z,29,White,VA,South,Lethal Injection
+1998-03-23T00:00:00Z,46,White,FL,South,Electrocution
+1998-03-24T00:00:00Z,47,Black,FL,South,Electrocution
+1998-03-25T00:00:00Z,37,Black,MO,Midwest,Lethal Injection
+1998-03-25T00:00:00Z,35,Black,VA,South,Lethal Injection
+1998-03-30T00:00:00Z,54,White,FL,South,Electrocution
+1998-03-31T00:00:00Z,40,Native American,FL,South,Electrocution
+1998-04-14T00:00:00Z,32,Latino,VA,South,Lethal Injection
+1998-04-22T00:00:00Z,45,Latino,AZ,West,Lethal Injection
+1998-04-22T00:00:00Z,38,White,TX,South,Lethal Injection
+1998-04-22T00:00:00Z,42,White,MO,Midwest,Lethal Injection
+1998-04-24T00:00:00Z,42,White,TX,South,Lethal Injection
+1998-04-29T00:00:00Z,34,White,TX,South,Lethal Injection
+1998-04-29T00:00:00Z,43,White,AZ,West,Lethal Injection
+1998-08-05T00:00:00Z,34,White,AL,South,Electrocution
+1998-05-18T00:00:00Z,34,Black,TX,South,Lethal Injection
+1998-05-19T00:00:00Z,41,Latino,TX,South,Lethal Injection
+1998-03-06T00:00:00Z,47,White,AZ,West,Lethal Injection
+1998-09-06T00:00:00Z,39,White,GA,South,Electrocution
+1998-11-06T00:00:00Z,33,White,TX,South,Lethal Injection
+1998-06-15T00:00:00Z,40,White,TX,South,Lethal Injection
+1998-06-18T00:00:00Z,41,White,VA,South,Lethal Injection
+1998-06-26T00:00:00Z,30,Latino,TX,South,Lethal Injection
+1998-08-07T00:00:00Z,56,White,AR,South,Lethal Injection
+1998-10-07T00:00:00Z,43,White,SC,South,Lethal Injection
+1998-07-14T00:00:00Z,43,White,CA,West,Lethal Injection
+1998-07-23T00:00:00Z,47,White,VA,South,Lethal Injection
+1998-05-08T00:00:00Z,38,White,OK,South,Lethal Injection
+1998-08-14T00:00:00Z,62,White,NC,South,Lethal Injection
+1998-08-20T00:00:00Z,25,Black,VA,South,Lethal Injection
+1998-08-26T00:00:00Z,43,Latino,TX,South,Lethal Injection
+1998-08-31T00:00:00Z,31,Black,VA,South,Lethal Injection
+1998-09-09T00:00:00Z,37,White,TX,South,Lethal Injection
+1998-09-23T00:00:00Z,34,Latino,TX,South,Lethal Injection
+1998-09-23T00:00:00Z,44,White,VA,South,Electrocution
+1998-09-25T00:00:00Z,40,White,SC,South,Lethal Injection
+1998-01-10T00:00:00Z,41,Latino,TX,South,Lethal Injection
+1998-05-10T00:00:00Z,44,Latino,NV,West,Lethal Injection
+1998-07-10T00:00:00Z,37,White,TX,South,Lethal Injection
+1998-10-13T00:00:00Z,27,White,WA,West,Lethal Injection
+1998-10-14T00:00:00Z,24,Black,VA,South,Lethal Injection
+1998-10-21T00:00:00Z,29,Black,VA,South,Lethal Injection
+1998-11-16T00:00:00Z,32,Black,MD,South,Lethal Injection
+1998-11-17T00:00:00Z,34,Black,VA,South,Lethal Injection
+1998-11-17T00:00:00Z,52,White,TX,South,Lethal Injection
+1998-11-20T00:00:00Z,50,White,NC,South,Lethal Injection
+1998-03-12T00:00:00Z,29,Black,VA,South,Lethal Injection
+1998-04-12T00:00:00Z,53,Black,SC,South,Lethal Injection
+1998-04-12T00:00:00Z,43,Black,SC,South,Lethal Injection
+1998-07-12T00:00:00Z,40,White,TX,South,Lethal Injection
+1998-08-12T00:00:00Z,39,White,TX,South,Lethal Injection
+1998-10-12T00:00:00Z,39,Asian,OK,South,Lethal Injection
+1998-11-12T00:00:00Z,40,Black,SC,South,Lethal Injection
+1998-12-15T00:00:00Z,42,Black,TX,South,Lethal Injection
+1998-12-17T00:00:00Z,47,White,OK,South,Lethal Injection
+1998-12-18T00:00:00Z,38,Black,SC,South,Lethal Injection
+1999-05-01T00:00:00Z,46,White,TX,South,Lethal Injection
+1999-07-01T00:00:00Z,37,Native American,OK,South,Lethal Injection
+1999-08-01T00:00:00Z,40,Black,SC,South,Lethal Injection
+1999-08-01T00:00:00Z,38,Black,LA,South,Lethal Injection
+1999-01-13T00:00:00Z,38,White,AZ,West,Lethal Injection
+1999-01-13T00:00:00Z,37,Black,MO,Midwest,Lethal Injection
+1999-01-13T00:00:00Z,36,White,TX,South,Lethal Injection
+1999-01-20T00:00:00Z,27,Black,VA,South,Lethal Injection
+1999-01-22T00:00:00Z,51,White,SC,South,Lethal Injection
+1999-01-26T00:00:00Z,52,Latino,TX,South,Lethal Injection
+1999-03-02T00:00:00Z,38,Native American,AZ,West,Lethal Injection
+1999-04-02T00:00:00Z,23,White,VA,South,Lethal Injection
+1999-04-02T00:00:00Z,29,White,OK,South,Lethal Injection
+1999-09-02T00:00:00Z,43,Asian,CA,West,Lethal Injection
+1999-10-02T00:00:00Z,39,Latino,TX,South,Lethal Injection
+1999-11-02T00:00:00Z,43,White,TX,South,Lethal Injection
+1999-02-16T00:00:00Z,42,White,AR,South,Lethal Injection
+1999-02-16T00:00:00Z,31,Latino,TX,South,Lethal Injection
+1999-02-19T00:00:00Z,36,White,OH,Midwest,Lethal Injection
+1999-02-24T00:00:00Z,38,White,MO,Midwest,Lethal Injection
+1999-02-24T00:00:00Z,35,White,AZ,West,Lethal Injection
+1999-02-24T00:00:00Z,38,Black,TX,South,Lethal Injection
+1999-03-03T00:00:00Z,37,White,AZ,West,Gas Chamber
+1999-09-03T00:00:00Z,37,White,VA,South,Lethal Injection
+1999-10-03T00:00:00Z,46,White,MO,Midwest,Lethal Injection
+1999-03-17T00:00:00Z,35,White,IL,Midwest,Lethal Injection
+1999-03-25T00:00:00Z,44,Black,TX,South,Lethal Injection
+1999-03-26T00:00:00Z,57,White,VA,South,Lethal Injection
+1999-03-26T00:00:00Z,26,White,NC,South,Lethal Injection
+1999-03-30T00:00:00Z,61,White,TX,South,Lethal Injection
+1999-05-04T00:00:00Z,25,Asian,NV,West,Lethal Injection
+1999-12-04T00:00:00Z,49,White,AR,South,Lethal Injection
+1999-04-13T00:00:00Z,36,Black,VA,South,Lethal Injection
+1999-04-14T00:00:00Z,45,Black,MO,Midwest,Lethal Injection
+1999-04-20T00:00:00Z,29,White,VA,South,Lethal Injection
+1999-04-23T00:00:00Z,37,White,DE,South,Lethal Injection
+1999-04-28T00:00:00Z,61,Black,MO,Midwest,Lethal Injection
+1999-04-28T00:00:00Z,26,White,TX,South,Lethal Injection
+1999-04-28T00:00:00Z,26,White,VA,South,Lethal Injection
+1999-04-29T00:00:00Z,38,White,VA,South,Lethal Injection
+1999-04-05T00:00:00Z,31,Latino,TX,South,Lethal Injection
+1999-04-05T00:00:00Z,50,Black,CA,West,Lethal Injection
+1999-05-05T00:00:00Z,62,Black,TX,South,Lethal Injection
+1999-05-05T00:00:00Z,41,White,AZ,West,Lethal Injection
+1999-05-25T00:00:00Z,50,White,KY,South,Lethal Injection
+1999-05-26T00:00:00Z,46,Black,MO,Midwest,Lethal Injection
+1999-01-06T00:00:00Z,38,White,TX,South,Lethal Injection
+1999-03-06T00:00:00Z,43,White,OK,South,Lethal Injection
+1999-06-16T00:00:00Z,38,Black,MO,Midwest,Lethal Injection
+1999-06-16T00:00:00Z,59,White,AZ,West,Lethal Injection
+1999-06-17T00:00:00Z,61,White,TX,South,Lethal Injection
+1999-06-18T00:00:00Z,40,Black,AL,South,Electrocution
+1999-06-30T00:00:00Z,33,White,MO,Midwest,Lethal Injection
+1999-01-07T00:00:00Z,35,White,TX,South,Lethal Injection
+1999-06-07T00:00:00Z,55,White,PA,Northeast,Lethal Injection
+1999-07-07T00:00:00Z,35,Black,TX,South,Lethal Injection
+1999-08-07T00:00:00Z,45,White,OK,South,Lethal Injection
+1999-08-07T00:00:00Z,54,White,FL,South,Electrocution
+1999-07-21T00:00:00Z,33,White,VA,South,Lethal Injection
+1999-04-08T00:00:00Z,41,White,TX,South,Lethal Injection
+1999-05-08T00:00:00Z,39,Black,TX,South,Lethal Injection
+1999-06-08T00:00:00Z,37,Black,AL,South,Electrocution
+1999-10-08T00:00:00Z,39,Black,TX,South,Lethal Injection
+1999-11-08T00:00:00Z,56,White,TX,South,Lethal Injection
+1999-08-17T00:00:00Z,26,Black,VA,South,Lethal Injection
+1999-08-18T00:00:00Z,37,Latino,TX,South,Lethal Injection
+1999-01-09T00:00:00Z,39,Black,TX,South,Lethal Injection
+1999-01-09T00:00:00Z,49,White,MO,Midwest,Lethal Injection
+1999-08-09T00:00:00Z,52,White,AR,South,Lethal Injection
+1999-08-09T00:00:00Z,43,White,AR,South,Lethal Injection
+1999-10-09T00:00:00Z,51,Black,TX,South,Lethal Injection
+1999-09-14T00:00:00Z,42,Black,TX,South,Lethal Injection
+1999-09-16T00:00:00Z,51,White,VA,South,Lethal Injection
+1999-09-21T00:00:00Z,43,White,TX,South,Lethal Injection
+1999-09-24T00:00:00Z,28,Black,DE,South,Lethal Injection
+1999-09-24T00:00:00Z,38,Black,NC,South,Lethal Injection
+1999-12-10T00:00:00Z,41,White,TX,South,Lethal Injection
+1999-10-14T00:00:00Z,51,White,TX,South,Lethal Injection
+1999-10-15T00:00:00Z,35,White,UT,West,Lethal Injection
+1999-10-19T00:00:00Z,27,Black,VA,South,Lethal Injection
+1999-10-21T00:00:00Z,53,White,NC,South,Lethal Injection
+1999-10-27T00:00:00Z,57,Latino,AZ,West,Lethal Injection
+1999-10-28T00:00:00Z,31,Native American,TX,South,Lethal Injection
+1999-09-11T00:00:00Z,32,Black,VA,South,Lethal Injection
+1999-12-11T00:00:00Z,44,Black,SC,South,Lethal Injection
+1999-11-16T00:00:00Z,46,Black,TX,South,Lethal Injection
+1999-11-17T00:00:00Z,42,White,TX,South,Lethal Injection
+1999-11-18T00:00:00Z,39,Latino,TX,South,Lethal Injection
+1999-11-19T00:00:00Z,51,Black,NC,South,Lethal Injection
+1999-02-12T00:00:00Z,43,Black,OK,South,Lethal Injection
+1999-03-12T00:00:00Z,31,White,SC,South,Lethal Injection
+1999-08-12T00:00:00Z,46,White,TX,South,Lethal Injection
+1999-09-12T00:00:00Z,29,Black,VA,South,Lethal Injection
+1999-09-12T00:00:00Z,41,Black,OK,South,Lethal Injection
+1999-09-12T00:00:00Z,48,White,IN,Midwest,Lethal Injection
+1999-09-12T00:00:00Z,42,White,TX,South,Lethal Injection
+1999-12-14T00:00:00Z,30,White,TX,South,Lethal Injection
+1999-12-15T00:00:00Z,54,Black,TX,South,Lethal Injection
+2000-06-01T00:00:00Z,41,Black,OK,South,Lethal Injection
+2000-07-01T00:00:00Z,37,White,AL,South,Electrocution
+2000-10-01T00:00:00Z,26,White,VA,South,Lethal Injection
+2000-12-01T00:00:00Z,48,White,TX,South,Lethal Injection
+2000-01-13T00:00:00Z,23,White,VA,South,Lethal Injection
+2000-01-13T00:00:00Z,46,White,OK,South,Lethal Injection
+2000-01-18T00:00:00Z,31,White,TX,South,Lethal Injection
+2000-01-20T00:00:00Z,38,Black,TX,South,Lethal Injection
+2000-01-21T00:00:00Z,42,White,TX,South,Lethal Injection
+2000-01-24T00:00:00Z,47,White,TX,South,Lethal Injection
+2000-01-25T00:00:00Z,27,Black,TX,South,Lethal Injection
+2000-01-27T00:00:00Z,39,White,TX,South,Lethal Injection
+2000-10-02T00:00:00Z,41,Black,OK,South,Lethal Injection
+2000-02-16T00:00:00Z,45,White,AZ,West,Lethal Injection
+2000-02-23T00:00:00Z,58,White,FL,South,Lethal Injection
+2000-02-23T00:00:00Z,38,Black,TX,South,Lethal Injection
+2000-02-24T00:00:00Z,40,White,FL,South,Lethal Injection
+2000-02-24T00:00:00Z,62,White,TX,South,Lethal Injection
+2000-01-03T00:00:00Z,31,Black,TX,South,Lethal Injection
+2000-03-03T00:00:00Z,48,Black,AL,South,Electrocution
+2000-03-14T00:00:00Z,28,Black,TX,South,Lethal Injection
+2000-03-15T00:00:00Z,36,White,TX,South,Lethal Injection
+2000-03-15T00:00:00Z,50,White,AZ,West,Lethal Injection
+2000-03-15T00:00:00Z,45,Native American,CA,West,Lethal Injection
+2000-03-16T00:00:00Z,28,Black,VA,South,Lethal Injection
+2000-03-22T00:00:00Z,62,White,MO,Midwest,Lethal Injection
+2000-03-23T00:00:00Z,31,Black,OK,South,Lethal Injection
+2000-04-14T00:00:00Z,52,Black,AL,South,Electrocution
+2000-04-19T00:00:00Z,44,White,TN,South,Lethal Injection
+2000-04-27T00:00:00Z,43,Black,OK,South,Lethal Injection
+2000-02-05T00:00:00Z,28,White,AR,South,Lethal Injection
+2000-04-05T00:00:00Z,43,Black,TX,South,Lethal Injection
+2000-09-05T00:00:00Z,37,White,TX,South,Lethal Injection
+2000-11-05T00:00:00Z,38,White,TX,South,Lethal Injection
+2000-05-23T00:00:00Z,32,Black,TX,South,Lethal Injection
+2000-05-24T00:00:00Z,47,White,TX,South,Lethal Injection
+2000-05-25T00:00:00Z,51,Black,OK,South,Lethal Injection
+2000-05-25T00:00:00Z,33,Black,TX,South,Lethal Injection
+2000-05-31T00:00:00Z,34,Black,TX,South,Lethal Injection
+2000-01-06T00:00:00Z,51,Native American,OK,South,Lethal Injection
+2000-02-06T00:00:00Z,35,Black,AL,South,Electrocution
+2000-06-06T00:00:00Z,38,Black,LA,South,Lethal Injection
+2000-07-06T00:00:00Z,49,Black,FL,South,Lethal Injection
+2000-08-06T00:00:00Z,39,White,OK,South,Lethal Injection
+2000-12-06T00:00:00Z,48,White,TX,South,Lethal Injection
+2000-06-14T00:00:00Z,44,Black,TX,South,Lethal Injection
+2000-06-15T00:00:00Z,29,Black,OK,South,Lethal Injection
+2000-06-15T00:00:00Z,31,Latino,TX,South,Lethal Injection
+2000-06-21T00:00:00Z,51,White,FL,South,Lethal Injection
+2000-06-22T00:00:00Z,36,Black,TX,South,Lethal Injection
+2000-06-28T00:00:00Z,53,White,MO,Midwest,Lethal Injection
+2000-06-29T00:00:00Z,29,Latino,TX,South,Lethal Injection
+2000-06-07T00:00:00Z,39,White,VA,South,Electrocution
+2000-12-07T00:00:00Z,50,White,TX,South,Lethal Injection
+2000-07-20T00:00:00Z,39,White,OK,South,Lethal Injection
+2000-07-26T00:00:00Z,33,Latino,TX,South,Lethal Injection
+2000-09-08T00:00:00Z,33,Latino,TX,South,Lethal Injection
+2000-09-08T00:00:00Z,36,Black,TX,South,Lethal Injection
+2000-10-08T00:00:00Z,59,White,OK,South,Lethal Injection
+2000-08-16T00:00:00Z,53,Black,TX,South,Lethal Injection
+2000-08-22T00:00:00Z,40,White,TX,South,Lethal Injection
+2000-08-23T00:00:00Z,39,White,TX,South,Lethal Injection
+2000-08-25T00:00:00Z,30,White,FL,South,Lethal Injection
+2000-08-30T00:00:00Z,32,White,VA,South,Lethal Injection
+2000-08-30T00:00:00Z,37,Black,TX,South,Lethal Injection
+2000-08-30T00:00:00Z,47,White,MO,Midwest,Lethal Injection
+2000-09-13T00:00:00Z,41,Black,MO,Midwest,Lethal Injection
+2000-09-14T00:00:00Z,33,White,VA,South,Lethal Injection
+2000-09-27T00:00:00Z,43,White,TX,South,Lethal Injection
+2000-10-10T00:00:00Z,28,Black,VA,South,Lethal Injection
+2000-01-11T00:00:00Z,27,White,TX,South,Lethal Injection
+2000-03-11T00:00:00Z,32,Black,SC,South,Lethal Injection
+2000-08-11T00:00:00Z,36,White,AZ,West,Lethal Injection
+2000-09-11T00:00:00Z,34,Black,NC,South,Lethal Injection
+2000-09-11T00:00:00Z,31,Latino,TX,South,Lethal Injection
+2000-11-14T00:00:00Z,31,Black,TX,South,Lethal Injection
+2000-11-15T00:00:00Z,32,Black,TX,South,Lethal Injection
+2000-11-15T00:00:00Z,48,White,MO,Midwest,Lethal Injection
+2000-11-17T00:00:00Z,37,Black,DE,South,Lethal Injection
+2000-05-12T00:00:00Z,33,White,TX,South,Lethal Injection
+2000-06-12T00:00:00Z,27,Black,VA,South,Lethal Injection
+2000-06-12T00:00:00Z,50,White,TX,South,Lethal Injection
+2000-07-12T00:00:00Z,50,Latino,FL,South,Lethal Injection
+2000-07-12T00:00:00Z,60,White,TX,South,Lethal Injection
+2000-12-19T00:00:00Z,37,Black,AR,South,Lethal Injection
+2001-09-01T00:00:00Z,48,Black,OK,South,Lethal Injection
+2001-09-01T00:00:00Z,37,White,TX,South,Lethal Injection
+2001-11-01T00:00:00Z,41,Black,OK,South,Lethal Injection
+2001-11-01T00:00:00Z,39,White,FL,South,Lethal Injection
+2001-01-16T00:00:00Z,29,White,OK,South,Lethal Injection
+2001-01-18T00:00:00Z,31,Native American,OK,South,Lethal Injection
+2001-01-18T00:00:00Z,37,White,TX,South,Lethal Injection
+2001-01-23T00:00:00Z,35,White,OK,South,Lethal Injection
+2001-01-25T00:00:00Z,35,White,OK,South,Lethal Injection
+2001-01-29T00:00:00Z,52,Black,TX,South,Lethal Injection
+2001-01-30T00:00:00Z,35,White,OK,South,Lethal Injection
+2001-01-02T00:00:00Z,61,White,OK,South,Lethal Injection
+2001-07-02T00:00:00Z,37,White,MO,Midwest,Lethal Injection
+2001-08-02T00:00:00Z,50,Latino,TX,South,Lethal Injection
+2001-01-03T00:00:00Z,40,White,OK,South,Lethal Injection
+2001-01-03T00:00:00Z,31,White,VA,South,Lethal Injection
+2001-07-03T00:00:00Z,55,White,TX,South,Lethal Injection
+2001-09-03T00:00:00Z,39,Black,NC,South,Lethal Injection
+2001-03-14T00:00:00Z,41,White,IN,Midwest,Lethal Injection
+2001-03-27T00:00:00Z,59,White,CA,West,Lethal Injection
+2001-03-27T00:00:00Z,52,White,OK,South,Lethal Injection
+2001-03-28T00:00:00Z,50,White,MO,Midwest,Lethal Injection
+2001-03-04T00:00:00Z,27,White,TX,South,Lethal Injection
+2001-04-21T00:00:00Z,37,White,NV,West,Lethal Injection
+2001-04-25T00:00:00Z,32,Black,TX,South,Lethal Injection
+2001-04-25T00:00:00Z,46,Black,MO,Midwest,Lethal Injection
+2001-04-26T00:00:00Z,46,White,DE,South,Lethal Injection
+2001-01-05T00:00:00Z,40,White,OK,South,Lethal Injection
+2001-08-05T00:00:00Z,30,White,AR,South,Lethal Injection
+2001-05-22T00:00:00Z,41,Native American,OK,South,Lethal Injection
+2001-05-23T00:00:00Z,40,Black,MO,Midwest,Lethal Injection
+2001-05-25T00:00:00Z,37,Black,DE,South,Lethal Injection
+2001-05-29T00:00:00Z,42,Black,OK,South,Lethal Injection
+2001-11-06T00:00:00Z,33,White,NM,South,Lethal Injection
+2001-06-13T00:00:00Z,57,White,TX,South,Lethal Injection
+2001-06-14T00:00:00Z,48,Black,OH,Midwest,Lethal Injection
+2001-06-19T00:00:00Z,44,Latino,NM,South,Lethal Injection
+2001-06-26T00:00:00Z,46,Black,TX,South,Lethal Injection
+2001-06-27T00:00:00Z,54,White,IN,Midwest,Lethal Injection
+2001-11-07T00:00:00Z,42,Black,MO,Midwest,Lethal Injection
+2001-11-07T00:00:00Z,39,White,TX,South,Lethal Injection
+2001-07-17T00:00:00Z,40,Native American,OK,South,Lethal Injection
+2001-08-08T00:00:00Z,47,White,TX,South,Lethal Injection
+2001-08-16T00:00:00Z,39,White,TX,South,Lethal Injection
+2001-08-24T00:00:00Z,43,White,NC,South,Lethal Injection
+2001-08-28T00:00:00Z,58,White,WA,West,Lethal Injection
+2001-08-28T00:00:00Z,35,White,OK,South,Lethal Injection
+2001-08-31T00:00:00Z,42,White,NC,South,Lethal Injection
+2001-09-18T00:00:00Z,50,White,TX,South,Lethal Injection
+2001-03-10T00:00:00Z,27,White,MO,Midwest,Lethal Injection
+2001-12-10T00:00:00Z,39,Black,NC,South,Lethal Injection
+2001-10-18T00:00:00Z,53,White,OK,South,Lethal Injection
+2001-10-18T00:00:00Z,26,White,VA,South,Lethal Injection
+2001-10-22T00:00:00Z,33,Black,TX,South,Lethal Injection
+2001-10-24T00:00:00Z,55,White,MO,Midwest,Lethal Injection
+2001-10-25T00:00:00Z,40,White,GA,South,Lethal Injection
+2001-06-11T00:00:00Z,45,White,NM,West,Lethal Injection
+2001-06-11T00:00:00Z,45,Black,GA,South,Lethal Injection
+2001-11-14T00:00:00Z,41,White,TX,South,Lethal Injection
+2001-11-15T00:00:00Z,31,Black,TX,South,Lethal Injection
+2001-11-15T00:00:00Z,63,White,GA,South,Lethal Injection
+2001-11-30T00:00:00Z,43,White,NC,South,Lethal Injection
+2001-04-12T00:00:00Z,61,White,OK,South,Lethal Injection
+2001-06-12T00:00:00Z,53,Other,OK,South,Lethal Injection
+2001-11-12T00:00:00Z,41,White,GA,South,Lethal Injection
+2001-12-12T00:00:00Z,37,Black,TX,South,Lethal Injection
+2002-09-01T00:00:00Z,38,White,TX,South,Lethal Injection
+2002-09-01T00:00:00Z,52,White,MO,Midwest,Lethal Injection
+2002-01-16T00:00:00Z,43,Black,TX,South,Lethal Injection
+2002-01-24T00:00:00Z,62,White,GA,South,Lethal Injection
+2002-01-29T00:00:00Z,48,White,CA,West,Lethal Injection
+2002-01-29T00:00:00Z,43,White,OK,South,Lethal Injection
+2002-01-30T00:00:00Z,41,Black,TX,South,Lethal Injection
+2002-01-31T00:00:00Z,42,White,OK,South,Lethal Injection
+2002-01-31T00:00:00Z,48,White,TX,South,Lethal Injection
+2002-06-02T00:00:00Z,40,Black,MO,Midwest,Lethal Injection
+2002-02-19T00:00:00Z,38,White,OH,Midwest,Lethal Injection
+2002-02-28T00:00:00Z,35,White,TX,South,Lethal Injection
+2002-06-03T00:00:00Z,37,White,MO,Midwest,Lethal Injection
+2002-07-03T00:00:00Z,29,Black,TX,South,Lethal Injection
+2002-12-03T00:00:00Z,43,White,GA,South,Lethal Injection
+2002-03-14T00:00:00Z,35,White,VA,South,Lethal Injection
+2002-02-04T00:00:00Z,33,White,VA,South,Lethal Injection
+2002-10-04T00:00:00Z,40,Latino,TX,South,Lethal Injection
+2002-10-04T00:00:00Z,30,White,MO,Midwest,Lethal Injection
+2002-11-04T00:00:00Z,43,Black,TX,South,Lethal Injection
+2002-04-18T00:00:00Z,47,White,TX,South,Lethal Injection
+2002-04-26T00:00:00Z,46,Black,OH,Midwest,Lethal Injection
+2002-04-30T00:00:00Z,52,Latino,TX,South,Lethal Injection
+2002-03-05T00:00:00Z,39,White,SC,South,Lethal Injection
+2002-09-05T00:00:00Z,28,Black,TX,South,Lethal Injection
+2002-10-05T00:00:00Z,35,White,LA,South,Lethal Injection
+2002-10-05T00:00:00Z,54,White,AL,South,Electrocution
+2002-05-16T00:00:00Z,32,White,TX,South,Lethal Injection
+2002-05-22T00:00:00Z,29,Latino,TX,South,Lethal Injection
+2002-05-28T00:00:00Z,25,Black,TX,South,Lethal Injection
+2002-05-30T00:00:00Z,35,White,TX,South,Lethal Injection
+2002-12-06T00:00:00Z,47,Black,VA,South,Lethal Injection
+2002-06-13T00:00:00Z,27,White,TX,South,Lethal Injection
+2002-06-25T00:00:00Z,33,White,TX,South,Lethal Injection
+2002-06-26T00:00:00Z,30,Black,TX,South,Lethal Injection
+2002-07-17T00:00:00Z,39,White,MS,South,Lethal Injection
+2002-07-23T00:00:00Z,42,White,OK,South,Lethal Injection
+2002-07-30T00:00:00Z,51,White,OK,South,Lethal Injection
+2002-07-08T00:00:00Z,59,White,TX,South,Lethal Injection
+2002-08-08T00:00:00Z,25,Black,TX,South,Lethal Injection
+2002-08-14T00:00:00Z,33,Latino,TX,South,Lethal Injection
+2002-08-14T00:00:00Z,35,White,MO,Midwest,Lethal Injection
+2002-08-16T00:00:00Z,52,White,GA,South,Lethal Injection
+2002-08-20T00:00:00Z,38,White,TX,South,Lethal Injection
+2002-08-23T00:00:00Z,37,Black,SC,South,Lethal Injection
+2002-08-28T00:00:00Z,27,Black,TX,South,Lethal Injection
+2002-10-09T00:00:00Z,36,Black,TX,South,Lethal Injection
+2002-09-13T00:00:00Z,40,White,SC,South,Lethal Injection
+2002-09-17T00:00:00Z,44,White,TX,South,Lethal Injection
+2002-09-18T00:00:00Z,30,White,TX,South,Lethal Injection
+2002-09-24T00:00:00Z,42,White,TX,South,Lethal Injection
+2002-09-25T00:00:00Z,48,Black,TX,South,Lethal Injection
+2002-09-25T00:00:00Z,62,White,OH,Midwest,Lethal Injection
+2002-01-10T00:00:00Z,56,White,TX,South,Lethal Injection
+2002-02-10T00:00:00Z,43,Latino,FL,South,Lethal Injection
+2002-09-10T00:00:00Z,46,White,FL,South,Lethal Injection
+2002-11-13T00:00:00Z,59,White,GA,South,Lethal Injection
+2002-11-14T00:00:00Z,38,Other,VA,South,Lethal Injection
+2002-11-19T00:00:00Z,47,White,TX,South,Lethal Injection
+2002-11-20T00:00:00Z,37,White,MO,Midwest,Lethal Injection
+2002-11-20T00:00:00Z,66,White,TX,South,Lethal Injection
+2002-04-12T00:00:00Z,52,Latino,TX,South,Lethal Injection
+2002-06-12T00:00:00Z,49,White,NC,South,Lethal Injection
+2002-09-12T00:00:00Z,63,Black,FL,South,Lethal Injection
+2002-10-12T00:00:00Z,35,Black,NC,South,Lethal Injection
+2002-10-12T00:00:00Z,35,White,OK,South,Lethal Injection
+2002-11-12T00:00:00Z,51,White,MS,South,Lethal Injection
+2002-11-12T00:00:00Z,56,White,TX,South,Lethal Injection
+2002-12-12T00:00:00Z,46,White,AL,South,Lethal Injection
+2002-12-12T00:00:00Z,37,White,OK,South,Lethal Injection
+2002-12-17T00:00:00Z,36,Black,OK,South,Lethal Injection
+2003-01-14T00:00:00Z,31,White,TX,South,Lethal Injection
+2003-01-15T00:00:00Z,30,Latino,TX,South,Lethal Injection
+2003-01-16T00:00:00Z,34,White,OK,South,Lethal Injection
+2003-01-22T00:00:00Z,37,White,TX,South,Lethal Injection
+2003-01-28T00:00:00Z,33,Black,TX,South,Lethal Injection
+2003-01-29T00:00:00Z,40,White,TX,South,Lethal Injection
+2003-01-30T00:00:00Z,32,White,TX,South,Lethal Injection
+2003-04-02T00:00:00Z,42,Latino,TX,South,Lethal Injection
+2003-05-02T00:00:00Z,42,White,MO,Midwest,Lethal Injection
+2003-06-02T00:00:00Z,28,Black,TX,South,Lethal Injection
+2003-12-02T00:00:00Z,47,White,OH,Midwest,Lethal Injection
+2003-02-13T00:00:00Z,39,Black,OK,South,Lethal Injection
+2003-02-25T00:00:00Z,33,Black,TX,South,Lethal Injection
+2003-02-26T00:00:00Z,48,Black,FL,South,Lethal Injection
+2003-11-03T00:00:00Z,41,White,TX,South,Lethal Injection
+2003-03-13T00:00:00Z,43,White,AL,South,Lethal Injection
+2003-03-18T00:00:00Z,31,Black,OK,South,Lethal Injection
+2003-03-18T00:00:00Z,53,Black,NM,South,Lethal Injection
+2003-03-20T00:00:00Z,35,Black,TX,South,Lethal Injection
+2003-03-25T00:00:00Z,57,White,GA,South,Lethal Injection
+2003-03-25T00:00:00Z,49,Black,OK,South,Lethal Injection
+2003-03-26T00:00:00Z,43,White,TX,South,Lethal Injection
+2003-03-04T00:00:00Z,32,White,OK,South,Lethal Injection
+2003-08-04T00:00:00Z,43,White,OK,South,Lethal Injection
+2003-09-04T00:00:00Z,61,White,VA,South,Electrocution
+2003-04-17T00:00:00Z,40,Black,OK,South,Lethal Injection
+2003-04-22T00:00:00Z,34,Latino,TX,South,Lethal Injection
+2003-04-24T00:00:00Z,44,White,AL,South,Lethal Injection
+2003-04-29T00:00:00Z,44,White,OH,Midwest,Lethal Injection
+2003-02-05T00:00:00Z,43,White,IN,Midwest,Lethal Injection
+2003-06-05T00:00:00Z,47,White,TX,South,Lethal Injection
+2003-06-05T00:00:00Z,49,White,GA,South,Lethal Injection
+2003-05-15T00:00:00Z,56,White,TX,South,Lethal Injection
+2003-05-16T00:00:00Z,48,White,FL,South,Lethal Injection
+2003-05-27T00:00:00Z,62,White,OK,South,Lethal Injection
+2003-05-06T00:00:00Z,37,Black,OK,South,Lethal Injection
+2003-11-06T00:00:00Z,38,Black,TX,South,Lethal Injection
+2003-06-13T00:00:00Z,46,White,IN,Midwest,Lethal Injection
+2003-06-18T00:00:00Z,42,Black,OH,Midwest,Lethal Injection
+2003-01-07T00:00:00Z,31,White,OK,South,Lethal Injection
+2003-02-07T00:00:00Z,64,White,TX,South,Lethal Injection
+2003-08-07T00:00:00Z,39,White,OK,South,Lethal Injection
+2003-09-07T00:00:00Z,43,Black,TX,South,Lethal Injection
+2003-09-07T00:00:00Z,31,Black,AR,South,Lethal Injection
+2003-07-22T00:00:00Z,27,White,VA,South,Lethal Injection
+2003-07-22T00:00:00Z,31,Black,OK,South,Lethal Injection
+2003-07-23T00:00:00Z,29,Black,TX,South,Lethal Injection
+2003-07-24T00:00:00Z,33,White,OK,South,Lethal Injection
+2003-07-24T00:00:00Z,53,White,TX,South,Lethal Injection
+2003-07-29T00:00:00Z,33,White,OK,South,Lethal Injection
+2003-07-08T00:00:00Z,39,White,AL,South,Lethal Injection
+2003-08-22T00:00:00Z,34,Black,NC,South,Lethal Injection
+2003-03-09T00:00:00Z,49,White,FL,South,Lethal Injection
+2003-10-09T00:00:00Z,54,White,TX,South,Lethal Injection
+2003-12-09T00:00:00Z,58,Native American,NC,South,Lethal Injection
+2003-09-26T00:00:00Z,35,White,NC,South,Lethal Injection
+2003-03-10T00:00:00Z,39,White,NC,South,Lethal Injection
+2003-10-29T00:00:00Z,42,White,MO,Midwest,Lethal Injection
+2003-04-11T00:00:00Z,55,White,GA,South,Lethal Injection
+2003-07-11T00:00:00Z,39,White,NC,South,Lethal Injection
+2003-11-14T00:00:00Z,46,Black,NC,South,Lethal Injection
+2003-11-20T00:00:00Z,41,White,TX,South,Lethal Injection
+2003-03-12T00:00:00Z,61,White,TX,South,Lethal Injection
+2003-04-12T00:00:00Z,38,White,TX,South,Lethal Injection
+2003-05-12T00:00:00Z,31,Black,NC,South,Lethal Injection
+2004-06-01T00:00:00Z,27,Black,TX,South,Lethal Injection
+2004-06-01T00:00:00Z,44,Black,AR,South,Lethal Injection
+2004-09-01T00:00:00Z,32,White,NC,South,Lethal Injection
+2004-01-13T00:00:00Z,39,Black,OK,South,Lethal Injection
+2004-01-14T00:00:00Z,45,Black,OH,Midwest,Lethal Injection
+2004-01-14T00:00:00Z,32,Black,TX,South,Lethal Injection
+2004-01-21T00:00:00Z,42,White,TX,South,Lethal Injection
+2004-01-28T00:00:00Z,58,White,TX,South,Lethal Injection
+2004-03-02T00:00:00Z,41,White,OH,Midwest,Lethal Injection
+2004-04-02T00:00:00Z,51,Black,FL,South,Lethal Injection
+2004-11-02T00:00:00Z,46,Black,TX,South,Lethal Injection
+2004-12-02T00:00:00Z,36,Black,TX,South,Lethal Injection
+2004-02-17T00:00:00Z,38,White,OK,South,Lethal Injection
+2004-02-17T00:00:00Z,36,White,TX,South,Lethal Injection
+2004-03-03T00:00:00Z,29,Black,TX,South,Lethal Injection
+2004-09-03T00:00:00Z,49,White,OK,South,Lethal Injection
+2004-03-18T00:00:00Z,30,White,VA,South,Lethal Injection
+2004-03-19T00:00:00Z,39,White,SC,South,Lethal Injection
+2004-03-23T00:00:00Z,37,Asian,OK,South,Lethal Injection
+2004-03-26T00:00:00Z,35,White,NV,West,Lethal Injection
+2004-03-30T00:00:00Z,52,White,OH,Midwest,Lethal Injection
+2004-03-31T00:00:00Z,39,White,VA,South,Lethal Injection
+2004-04-16T00:00:00Z,51,White,SC,South,Lethal Injection
+2004-04-23T00:00:00Z,38,White,SC,South,Lethal Injection
+2004-05-18T00:00:00Z,50,Black,TX,South,Lethal Injection
+2004-05-26T00:00:00Z,49,White,FL,South,Lethal Injection
+2004-05-28T00:00:00Z,47,White,SC,South,Electrocution
+2004-08-06T00:00:00Z,63,White,OK,South,Lethal Injection
+2004-08-06T00:00:00Z,45,White,OH,Midwest,Lethal Injection
+2004-06-17T00:00:00Z,42,White,MD,South,Lethal Injection
+2004-06-30T00:00:00Z,43,White,TX,South,Lethal Injection
+2004-01-07T00:00:00Z,47,White,GA,South,Lethal Injection
+2004-07-14T00:00:00Z,47,White,OH,Midwest,Lethal Injection
+2004-07-19T00:00:00Z,57,White,GA,South,Lethal Injection
+2004-07-20T00:00:00Z,40,White,OH,Midwest,Lethal Injection
+2004-07-22T00:00:00Z,34,White,VA,South,Lethal Injection
+2004-05-08T00:00:00Z,74,White,AL,South,Lethal Injection
+2004-12-08T00:00:00Z,56,White,NV,West,Lethal Injection
+2004-08-18T00:00:00Z,57,White,VA,South,Lethal Injection
+2004-08-25T00:00:00Z,28,White,TX,South,Lethal Injection
+2004-08-26T00:00:00Z,46,White,OK,South,Lethal Injection
+2004-08-26T00:00:00Z,41,Black,TX,South,Lethal Injection
+2004-09-09T00:00:00Z,58,Black,VA,South,Lethal Injection
+2004-09-21T00:00:00Z,32,Latino,TX,South,Lethal Injection
+2004-09-30T00:00:00Z,33,White,AL,South,Lethal Injection
+2004-05-10T00:00:00Z,30,Black,TX,South,Lethal Injection
+2004-06-10T00:00:00Z,42,Latino,TX,South,Lethal Injection
+2004-08-10T00:00:00Z,51,Black,NC,South,Lethal Injection
+2004-12-10T00:00:00Z,39,White,TX,South,Lethal Injection
+2004-10-13T00:00:00Z,28,Black,OH,Midwest,Lethal Injection
+2004-10-20T00:00:00Z,53,White,TX,South,Lethal Injection
+2004-10-22T00:00:00Z,30,White,NC,South,Lethal Injection
+2004-10-26T00:00:00Z,30,Black,TX,South,Lethal Injection
+2004-02-11T00:00:00Z,52,Black,TX,South,Lethal Injection
+2004-04-11T00:00:00Z,47,White,TX,South,Lethal Injection
+2004-09-11T00:00:00Z,30,Black,TX,South,Lethal Injection
+2004-10-11T00:00:00Z,30,Black,TX,South,Lethal Injection
+2004-12-11T00:00:00Z,32,White,NC,South,Lethal Injection
+2004-11-17T00:00:00Z,30,Latino,TX,South,Lethal Injection
+2005-04-01T00:00:00Z,33,White,TX,South,Lethal Injection
+2005-01-19T00:00:00Z,61,White,CA,West,Lethal Injection
+2005-01-25T00:00:00Z,38,White,TX,South,Lethal Injection
+2005-01-25T00:00:00Z,34,White,GA,South,Lethal Injection
+2005-02-17T00:00:00Z,41,White,TX,South,Lethal Injection
+2005-01-03T00:00:00Z,39,White,GA,South,Lethal Injection
+2005-08-03T00:00:00Z,47,Black,OH,Midwest,Lethal Injection
+2005-08-03T00:00:00Z,50,White,TX,South,Lethal Injection
+2005-10-03T00:00:00Z,47,White,IN,Midwest,Lethal Injection
+2005-11-03T00:00:00Z,58,White,NC,South,Lethal Injection
+2005-03-15T00:00:00Z,57,White,OK,South,Lethal Injection
+2005-03-16T00:00:00Z,37,Black,MO,Midwest,Lethal Injection
+2005-05-04T00:00:00Z,47,White,FL,South,Lethal Injection
+2005-04-15T00:00:00Z,36,White,SC,South,Lethal Injection
+2005-04-20T00:00:00Z,42,White,TX,South,Lethal Injection
+2005-04-21T00:00:00Z,48,White,IN,Midwest,Lethal Injection
+2005-04-27T00:00:00Z,38,Black,MO,Midwest,Lethal Injection
+2005-04-28T00:00:00Z,39,White,AL,South,Lethal Injection
+2005-03-05T00:00:00Z,43,White,TX,South,Lethal Injection
+2005-06-05T00:00:00Z,43,Black,NC,South,Lethal Injection
+2005-12-05T00:00:00Z,37,Black,OK,South,Lethal Injection
+2005-05-13T00:00:00Z,45,White,CT,Northeast,Lethal Injection
+2005-05-18T00:00:00Z,51,Black,MO,Midwest,Lethal Injection
+2005-05-18T00:00:00Z,44,Black,TX,South,Lethal Injection
+2005-05-19T00:00:00Z,31,White,TX,South,Lethal Injection
+2005-05-25T00:00:00Z,40,White,IN,Midwest,Lethal Injection
+2005-02-06T00:00:00Z,58,White,AL,South,Lethal Injection
+2005-07-06T00:00:00Z,28,Latino,TX,South,Lethal Injection
+2005-12-07T00:00:00Z,44,White,GA,South,Lethal Injection
+2005-07-19T00:00:00Z,37,Black,OK,South,Lethal Injection
+2005-07-27T00:00:00Z,38,White,IN,Midwest,Lethal Injection
+2005-07-28T00:00:00Z,29,Latino,TX,South,Lethal Injection
+2005-04-08T00:00:00Z,62,White,AL,South,Lethal Injection
+2005-10-08T00:00:00Z,38,Black,TX,South,Lethal Injection
+2005-11-08T00:00:00Z,52,Black,OK,South,Lethal Injection
+2005-08-23T00:00:00Z,30,White,TX,South,Lethal Injection
+2005-08-31T00:00:00Z,44,White,MO,Midwest,Lethal Injection
+2005-09-14T00:00:00Z,40,Black,TX,South,Lethal Injection
+2005-09-22T00:00:00Z,48,White,AL,South,Lethal Injection
+2005-09-27T00:00:00Z,32,White,OH,Midwest,Lethal Injection
+2005-09-28T00:00:00Z,54,White,IN,Midwest,Lethal Injection
+2005-06-10T00:00:00Z,32,Black,TX,South,Lethal Injection
+2005-10-20T00:00:00Z,42,Latino,TX,South,Lethal Injection
+2005-10-25T00:00:00Z,48,Black,OH,Midwest,Lethal Injection
+2005-10-26T00:00:00Z,38,Black,MO,Midwest,Lethal Injection
+2005-03-11T00:00:00Z,55,White,TX,South,Lethal Injection
+2005-04-11T00:00:00Z,36,White,DE,South,Lethal Injection
+2005-04-11T00:00:00Z,51,Black,SC,South,Lethal Injection
+2005-09-11T00:00:00Z,38,White,TX,South,Lethal Injection
+2005-11-11T00:00:00Z,35,White,NC,South,Lethal Injection
+2005-11-15T00:00:00Z,50,White,TX,South,Lethal Injection
+2005-11-16T00:00:00Z,34,Black,TX,South,Lethal Injection
+2005-11-18T00:00:00Z,67,White,NC,South,Lethal Injection
+2005-11-28T00:00:00Z,45,White,AR,South,Lethal Injection
+2005-11-29T00:00:00Z,49,Black,OH,Midwest,Lethal Injection
+2005-02-12T00:00:00Z,33,White,SC,South,Lethal Injection
+2005-02-12T00:00:00Z,57,White,NC,South,Lethal Injection
+2005-05-12T00:00:00Z,47,Black,MD,South,Lethal Injection
+2005-12-13T00:00:00Z,51,Black,CA,West,Lethal Injection
+2005-12-14T00:00:00Z,77,White,MS,South,Lethal Injection
+2006-01-17T00:00:00Z,76,Native American,CA,West,Lethal Injection
+2006-01-20T00:00:00Z,43,Black,NC,South,Lethal Injection
+2006-01-25T00:00:00Z,33,Black,TX,South,Lethal Injection
+2006-01-27T00:00:00Z,58,White,IN,Midwest,Lethal Injection
+2006-01-31T00:00:00Z,34,Latino,TX,South,Lethal Injection
+2006-07-02T00:00:00Z,43,White,OH,Midwest,Lethal Injection
+2006-08-02T00:00:00Z,31,White,TX,South,Lethal Injection
+2006-02-15T00:00:00Z,32,Black,TX,South,Lethal Injection
+2006-03-15T00:00:00Z,31,Black,TX,South,Lethal Injection
+2006-03-17T00:00:00Z,39,White,NC,South,Lethal Injection
+2006-03-22T00:00:00Z,27,Latino,TX,South,Lethal Injection
+2006-03-29T00:00:00Z,38,Black,TX,South,Lethal Injection
+2006-04-18T00:00:00Z,40,White,OK,South,Lethal Injection
+2006-04-21T00:00:00Z,61,Black,NC,South,Lethal Injection
+2006-04-26T00:00:00Z,47,Black,NV,West,Lethal Injection
+2006-04-27T00:00:00Z,43,Black,VA,South,Lethal Injection
+2006-02-05T00:00:00Z,57,Black,OH,Midwest,Lethal Injection
+2006-04-05T00:00:00Z,40,Latino,TX,South,Lethal Injection
+2006-05-17T00:00:00Z,27,Black,TX,South,Lethal Injection
+2006-05-24T00:00:00Z,42,Latino,TX,South,Lethal Injection
+2006-01-06T00:00:00Z,74,White,OK,South,Lethal Injection
+2006-06-06T00:00:00Z,34,White,TX,South,Lethal Injection
+2006-06-20T00:00:00Z,28,Black,TX,South,Lethal Injection
+2006-06-27T00:00:00Z,46,Latino,TX,South,Lethal Injection
+2006-06-28T00:00:00Z,51,White,TN,South,Lethal Injection
+2006-11-07T00:00:00Z,31,Black,TX,South,Lethal Injection
+2006-12-07T00:00:00Z,49,White,OH,Midwest,Lethal Injection
+2006-07-14T00:00:00Z,39,White,SC,South,Lethal Injection
+2006-07-19T00:00:00Z,31,Black,TX,South,Lethal Injection
+2006-07-20T00:00:00Z,27,White,VA,South,Electrocution
+2006-07-20T00:00:00Z,40,White,TX,South,Lethal Injection
+2006-07-27T00:00:00Z,42,White,VA,South,Lethal Injection
+2006-03-08T00:00:00Z,41,Black,TX,South,Lethal Injection
+2006-08-08T00:00:00Z,28,White,OH,Midwest,Lethal Injection
+2006-11-08T00:00:00Z,49,White,MT,West,Lethal Injection
+2006-08-17T00:00:00Z,45,Latino,TX,South,Lethal Injection
+2006-08-18T00:00:00Z,37,White,NC,South,Lethal Injection
+2006-08-24T00:00:00Z,27,Black,TX,South,Lethal Injection
+2006-08-29T00:00:00Z,49,Black,OK,South,Lethal Injection
+2006-08-31T00:00:00Z,31,White,OK,South,Lethal Injection
+2006-08-31T00:00:00Z,29,Black,TX,South,Lethal Injection
+2006-12-09T00:00:00Z,43,Black,TX,South,Lethal Injection
+2006-09-20T00:00:00Z,48,Black,FL,South,Lethal Injection
+2006-10-18T00:00:00Z,57,White,FL,South,Lethal Injection
+2006-10-18T00:00:00Z,43,White,MS,South,Lethal Injection
+2006-10-24T00:00:00Z,56,White,OH,Midwest,Lethal Injection
+2006-10-25T00:00:00Z,48,White,TX,South,Lethal Injection
+2006-10-25T00:00:00Z,52,White,FL,South,Lethal Injection
+2006-10-26T00:00:00Z,37,White,AL,South,Lethal Injection
+2006-01-11T00:00:00Z,33,Black,TX,South,Lethal Injection
+2006-08-11T00:00:00Z,33,Black,TX,South,Lethal Injection
+2006-09-11T00:00:00Z,33,White,VA,South,Lethal Injection
+2006-12-13T00:00:00Z,55,Latino,FL,South,Lethal Injection
+2007-09-01T00:00:00Z,38,Black,OK,South,Lethal Injection
+2007-10-01T00:00:00Z,36,Latino,TX,South,Lethal Injection
+2007-01-17T00:00:00Z,33,White,TX,South,Lethal Injection
+2007-01-30T00:00:00Z,31,White,TX,South,Lethal Injection
+2007-07-02T00:00:00Z,47,Black,TX,South,Lethal Injection
+2007-02-22T00:00:00Z,30,White,TX,South,Lethal Injection
+2007-02-27T00:00:00Z,44,White,TX,South,Lethal Injection
+2007-06-03T00:00:00Z,48,Latino,TX,South,Lethal Injection
+2007-07-03T00:00:00Z,45,Black,TX,South,Lethal Injection
+2007-03-20T00:00:00Z,42,Black,TX,South,Lethal Injection
+2007-03-28T00:00:00Z,28,Latino,TX,South,Lethal Injection
+2007-03-29T00:00:00Z,51,White,TX,South,Lethal Injection
+2007-11-04T00:00:00Z,38,White,TX,South,Lethal Injection
+2007-04-24T00:00:00Z,41,White,OH,Midwest,Lethal Injection
+2007-04-26T00:00:00Z,30,White,TX,South,Lethal Injection
+2007-03-05T00:00:00Z,55,Black,AL,South,Lethal Injection
+2007-04-05T00:00:00Z,42,White,IN,Midwest,Lethal Injection
+2007-09-05T00:00:00Z,53,White,TN,South,Lethal Injection
+2007-05-16T00:00:00Z,41,White,TX,South,Lethal Injection
+2007-05-22T00:00:00Z,50,White,AZ,West,Lethal Injection
+2007-05-24T00:00:00Z,37,White,OH,Midwest,Lethal Injection
+2007-06-06T00:00:00Z,56,White,TX,South,Lethal Injection
+2007-06-15T00:00:00Z,36,White,IN,Midwest,Lethal Injection
+2007-06-20T00:00:00Z,36,Latino,TX,South,Lethal Injection
+2007-06-21T00:00:00Z,33,Latino,TX,South,Lethal Injection
+2007-06-22T00:00:00Z,40,Black,SC,South,Lethal Injection
+2007-06-26T00:00:00Z,49,White,OK,South,Lethal Injection
+2007-06-26T00:00:00Z,39,White,TX,South,Lethal Injection
+2007-06-26T00:00:00Z,63,Black,GA,South,Lethal Injection
+2007-11-07T00:00:00Z,25,White,SD,Midwest,Lethal Injection
+2007-07-24T00:00:00Z,44,Black,TX,South,Lethal Injection
+2007-07-26T00:00:00Z,46,Black,AL,South,Lethal Injection
+2007-08-15T00:00:00Z,27,Black,TX,South,Lethal Injection
+2007-08-21T00:00:00Z,46,White,OK,South,Lethal Injection
+2007-08-22T00:00:00Z,32,Black,TX,South,Lethal Injection
+2007-08-23T00:00:00Z,47,Black,AL,South,Lethal Injection
+2007-08-28T00:00:00Z,32,Black,TX,South,Lethal Injection
+2007-08-29T00:00:00Z,32,Latino,TX,South,Lethal Injection
+2007-05-09T00:00:00Z,30,White,TX,South,Lethal Injection
+2007-12-09T00:00:00Z,45,White,TN,South,Electrocution
+2007-09-20T00:00:00Z,32,White,TX,South,Lethal Injection
+2007-09-25T00:00:00Z,49,Black,TX,South,Lethal Injection
+2008-06-05T00:00:00Z,53,White,GA,South,Lethal Injection
+2008-05-21T00:00:00Z,49,White,MS,South,Lethal Injection
+2008-05-27T00:00:00Z,31,Black,VA,South,Lethal Injection
+2008-04-06T00:00:00Z,37,Black,GA,South,Lethal Injection
+2008-06-06T00:00:00Z,48,White,SC,South,Lethal Injection
+2008-11-06T00:00:00Z,37,White,TX,South,Lethal Injection
+2008-06-17T00:00:00Z,47,White,OK,South,Lethal Injection
+2008-06-20T00:00:00Z,49,Black,SC,South,Electrocution
+2008-06-25T00:00:00Z,30,Black,VA,South,Lethal Injection
+2008-01-07T00:00:00Z,39,White,FL,South,Lethal Injection
+2008-10-07T00:00:00Z,26,Black,VA,South,Lethal Injection
+2008-10-07T00:00:00Z,29,Black,TX,South,Lethal Injection
+2008-07-23T00:00:00Z,34,White,MS,South,Lethal Injection
+2008-07-23T00:00:00Z,40,Black,TX,South,Lethal Injection
+2008-07-24T00:00:00Z,36,White,VA,South,Lethal Injection
+2008-07-31T00:00:00Z,40,Black,TX,South,Lethal Injection
+2008-05-08T00:00:00Z,33,Latino,TX,South,Lethal Injection
+2008-07-08T00:00:00Z,29,Latino,TX,South,Lethal Injection
+2008-12-08T00:00:00Z,32,Black,TX,South,Lethal Injection
+2008-08-14T00:00:00Z,45,Latino,TX,South,Lethal Injection
+2008-09-16T00:00:00Z,57,White,GA,South,Lethal Injection
+2008-09-17T00:00:00Z,39,White,TX,South,Lethal Injection
+2008-09-23T00:00:00Z,34,Black,FL,South,Lethal Injection
+2008-09-25T00:00:00Z,52,White,OK,South,Lethal Injection
+2008-10-14T00:00:00Z,41,White,OH,Midwest,Lethal Injection
+2008-10-14T00:00:00Z,57,White,TX,South,Lethal Injection
+2008-10-16T00:00:00Z,27,Black,TX,South,Lethal Injection
+2008-10-21T00:00:00Z,29,White,TX,South,Lethal Injection
+2008-10-28T00:00:00Z,47,White,TX,South,Lethal Injection
+2008-10-30T00:00:00Z,42,White,TX,South,Lethal Injection
+2008-06-11T00:00:00Z,46,Black,TX,South,Lethal Injection
+2008-12-11T00:00:00Z,36,Black,TX,South,Lethal Injection
+2008-11-13T00:00:00Z,42,Black,TX,South,Lethal Injection
+2008-11-19T00:00:00Z,53,Black,OH,Midwest,Lethal Injection
+2008-11-20T00:00:00Z,45,Black,TX,South,Lethal Injection
+2008-11-21T00:00:00Z,37,White,KY,South,Lethal Injection
+2008-05-12T00:00:00Z,38,Black,SC,South,Lethal Injection
+2009-01-14T00:00:00Z,40,Black,TX,South,Lethal Injection
+2009-01-15T00:00:00Z,62,White,AL,South,Lethal Injection
+2009-01-21T00:00:00Z,49,Black,TX,South,Lethal Injection
+2009-01-22T00:00:00Z,53,Black,TX,South,Lethal Injection
+2009-01-22T00:00:00Z,32,Black,OK,South,Lethal Injection
+2009-01-28T00:00:00Z,41,Latino,TX,South,Lethal Injection
+2009-01-29T00:00:00Z,46,Latino,TX,South,Lethal Injection
+2009-04-02T00:00:00Z,36,Latino,TX,South,Lethal Injection
+2009-04-02T00:00:00Z,55,White,TN,South,Lethal Injection
+2009-10-02T00:00:00Z,35,Black,TX,South,Lethal Injection
+2009-11-02T00:00:00Z,51,White,FL,South,Lethal Injection
+2009-12-02T00:00:00Z,51,Black,TX,South,Lethal Injection
+2009-12-02T00:00:00Z,49,White,AL,South,Lethal Injection
+2009-02-19T00:00:00Z,44,Black,VA,South,Lethal Injection
+2009-02-20T00:00:00Z,56,White,SC,South,Lethal Injection
+2009-03-03T00:00:00Z,34,Black,TX,South,Lethal Injection
+2009-04-03T00:00:00Z,38,Black,TX,South,Lethal Injection
+2009-10-03T00:00:00Z,65,White,GA,South,Lethal Injection
+2009-10-03T00:00:00Z,34,Latino,TX,South,Lethal Injection
+2009-11-03T00:00:00Z,38,Latino,TX,South,Lethal Injection
+2009-04-15T00:00:00Z,35,Latino,TX,South,Lethal Injection
+2009-04-16T00:00:00Z,49,Black,AL,South,Lethal Injection
+2009-04-29T00:00:00Z,52,White,GA,South,Lethal Injection
+2009-04-30T00:00:00Z,28,Black,TX,South,Lethal Injection
+2009-08-05T00:00:00Z,34,Black,SC,South,Lethal Injection
+2009-05-14T00:00:00Z,44,Black,AL,South,Lethal Injection
+2009-05-14T00:00:00Z,48,White,OK,South,Lethal Injection
+2009-05-19T00:00:00Z,51,Black,TX,South,Lethal Injection
+2009-05-20T00:00:00Z,49,White,MO,Midwest,Lethal Injection
+2009-02-06T00:00:00Z,34,White,TX,South,Lethal Injection
+2009-03-06T00:00:00Z,39,White,OH,Midwest,Lethal Injection
+2009-11-06T00:00:00Z,62,White,AL,South,Lethal Injection
+2009-09-07T00:00:00Z,32,White,OK,South,Lethal Injection
+2009-07-14T00:00:00Z,45,White,OH,Midwest,Lethal Injection
+2009-07-21T00:00:00Z,36,Black,OH,Midwest,Lethal Injection
+2009-08-18T00:00:00Z,33,White,OH,Midwest,Lethal Injection
+2009-08-19T00:00:00Z,45,White,FL,South,Lethal Injection
+2009-09-16T00:00:00Z,52,White,TX,South,Lethal Injection
+2009-09-22T00:00:00Z,37,Black,TX,South,Lethal Injection
+2009-08-10T00:00:00Z,38,White,AL,South,Lethal Injection
+2009-10-20T00:00:00Z,42,White,GA,South,Lethal Injection
+2009-10-27T00:00:00Z,28,Black,TX,South,Lethal Injection
+2009-05-11T00:00:00Z,32,Black,TX,South,Lethal Injection
+2009-10-11T00:00:00Z,34,Latino,TX,South,Lethal Injection
+2009-10-11T00:00:00Z,48,Black,VA,South,Lethal Injection
+2009-11-17T00:00:00Z,60,White,VA,South,Electrocution
+2009-11-18T00:00:00Z,30,Black,TX,South,Lethal Injection
+2009-11-19T00:00:00Z,34,Black,TX,South,Lethal Injection
+2009-02-12T00:00:00Z,53,Black,TN,South,Lethal Injection
+2009-03-12T00:00:00Z,44,White,TX,South,Lethal Injection
+2009-08-12T00:00:00Z,51,White,OH,Midwest,Lethal Injection
+2009-11-12T00:00:00Z,49,White,IN,Midwest,Lethal Injection
+2010-07-01T00:00:00Z,47,White,LA,South,Lethal Injection
+2010-07-01T00:00:00Z,37,Black,OH,Midwest,Lethal Injection
+2010-07-01T00:00:00Z,51,Black,TX,South,Lethal Injection
+2010-12-01T00:00:00Z,59,White,TX,South,Lethal Injection
+2010-01-14T00:00:00Z,60,Black,OK,South,Lethal Injection
+2010-04-02T00:00:00Z,37,Black,OH,Midwest,Lethal Injection
+2010-02-16T00:00:00Z,45,White,FL,South,Lethal Injection
+2010-02-03T00:00:00Z,32,Latino,TX,South,Lethal Injection
+2010-11-03T00:00:00Z,31,White,TX,South,Lethal Injection
+2010-03-16T00:00:00Z,43,White,OH,Midwest,Lethal Injection
+2010-03-18T00:00:00Z,31,White,VA,South,Electrocution
+2010-03-30T00:00:00Z,34,Black,TX,South,Lethal Injection
+2010-04-20T00:00:00Z,46,Black,OH,Midwest,Lethal Injection
+2010-04-22T00:00:00Z,31,White,TX,South,Lethal Injection
+2010-04-27T00:00:00Z,40,Latino,TX,South,Lethal Injection
+2010-12-05T00:00:00Z,41,White,TX,South,Lethal Injection
+2010-05-13T00:00:00Z,48,White,OH,Midwest,Lethal Injection
+2010-05-13T00:00:00Z,41,White,TX,South,Lethal Injection
+2010-05-19T00:00:00Z,37,Latino,TX,South,Lethal Injection
+2010-05-19T00:00:00Z,62,White,MS,South,Lethal Injection
+2010-05-20T00:00:00Z,72,White,MS,South,Lethal Injection
+2010-05-20T00:00:00Z,37,Black,VA,South,Lethal Injection
+2010-05-25T00:00:00Z,54,Latino,TX,South,Lethal Injection
+2010-05-27T00:00:00Z,63,White,AL,South,Lethal Injection
+2010-02-06T00:00:00Z,36,Black,TX,South,Lethal Injection
+2010-09-06T00:00:00Z,49,White,GA,South,Lethal Injection
+2010-10-06T00:00:00Z,42,White,AL,South,Lethal Injection
+2010-06-15T00:00:00Z,59,White,TX,South,Lethal Injection
+2010-06-18T00:00:00Z,49,White,UT,West,Firing Squad
+2010-01-07T00:00:00Z,28,White,TX,South,Lethal Injection
+2010-07-13T00:00:00Z,37,Black,OH,Midwest,Lethal Injection
+2010-07-20T00:00:00Z,42,Black,TX,South,Lethal Injection
+2010-07-21T00:00:00Z,42,White,MS,South,Lethal Injection
+2010-10-08T00:00:00Z,38,Black,OH,Midwest,Lethal Injection
+2010-12-08T00:00:00Z,41,White,AL,South,Lethal Injection
+2010-08-17T00:00:00Z,35,Latino,TX,South,Lethal Injection
+2010-09-09T00:00:00Z,50,Black,AL,South,Lethal Injection
+2010-10-09T00:00:00Z,52,White,WA,West,Lethal Injection
+2010-09-23T00:00:00Z,41,White,VA,South,Lethal Injection
+2010-09-27T00:00:00Z,31,White,GA,South,Lethal Injection
+2010-06-10T00:00:00Z,49,White,OH,Midwest,Lethal Injection
+2010-10-14T00:00:00Z,41,White,OK,South,Lethal Injection
+2010-10-21T00:00:00Z,51,Black,TX,South,Lethal Injection
+2010-10-26T00:00:00Z,50,Native American,AZ,West,Lethal Injection
+2010-04-11T00:00:00Z,63,White,AL,South,Lethal Injection
+2010-12-16T00:00:00Z,58,White,OK,South,Lethal Injection
+2011-06-01T00:00:00Z,39,Black,OK,South,Lethal Injection
+2011-11-01T00:00:00Z,38,White,OK,South,Lethal Injection
+2011-01-13T00:00:00Z,52,Black,AL,South,Lethal Injection
+2011-01-25T00:00:00Z,45,Black,GA,South,Lethal Injection
+2011-09-02T00:00:00Z,47,White,MO,Midwest,Lethal Injection
+2011-02-15T00:00:00Z,31,White,TX,South,Lethal Injection
+2011-02-17T00:00:00Z,59,White,OH,Midwest,Lethal Injection
+2011-02-22T00:00:00Z,42,Black,TX,South,Lethal Injection
+2011-10-03T00:00:00Z,37,Black,OH,Midwest,Lethal Injection
+2011-03-29T00:00:00Z,47,Black,AZ,West,Lethal Injection
+2011-03-31T00:00:00Z,45,White,AL,South,Lethal Injection
+2011-12-04T00:00:00Z,49,Black,OH,Midwest,Lethal Injection
+2011-03-05T00:00:00Z,46,White,TX,South,Lethal Injection
+2011-06-05T00:00:00Z,36,White,SC,South,Lethal Injection
+2011-10-05T00:00:00Z,52,White,MS,South,Lethal Injection
+2011-05-17T00:00:00Z,39,Black,MS,South,Lethal Injection
+2011-05-17T00:00:00Z,63,White,OH,Midwest,Lethal Injection
+2011-05-19T00:00:00Z,42,White,AL,South,Lethal Injection
+2011-05-25T00:00:00Z,56,White,AZ,West,Lethal Injection
+2011-01-06T00:00:00Z,42,Black,TX,South,Lethal Injection
+2011-06-16T00:00:00Z,32,White,TX,South,Lethal Injection
+2011-06-16T00:00:00Z,41,Black,AL,South,Lethal Injection
+2011-06-21T00:00:00Z,32,Black,TX,South,Lethal Injection
+2011-06-23T00:00:00Z,55,White,GA,South,Lethal Injection
+2011-06-30T00:00:00Z,49,White,AZ,West,Lethal Injection
+2011-07-07T00:00:00Z,38,Latino,TX,South,Lethal Injection
+2011-07-19T00:00:00Z,52,White,AZ,West,Lethal Injection
+2011-07-20T00:00:00Z,41,White,TX,South,Lethal Injection
+2011-07-21T00:00:00Z,37,White,GA,South,Lethal Injection
+2011-07-29T00:00:00Z,38,White,DE,South,Lethal Injection
+2011-10-08T00:00:00Z,33,Latino,TX,South,Lethal Injection
+2011-08-18T00:00:00Z,30,Black,VA,South,Lethal Injection
+2011-09-13T00:00:00Z,31,White,TX,South,Lethal Injection
+2011-09-21T00:00:00Z,44,White,TX,South,Lethal Injection
+2011-09-21T00:00:00Z,41,Black,GA,South,Lethal Injection
+2011-09-22T00:00:00Z,37,Black,AL,South,Lethal Injection
+2011-09-28T00:00:00Z,61,Latino,FL,South,Lethal Injection
+2011-10-20T00:00:00Z,38,White,AL,South,Lethal Injection
+2011-10-27T00:00:00Z,39,Latino,TX,South,Lethal Injection
+2011-11-15T00:00:00Z,66,Black,OH,Midwest,Lethal Injection
+2011-11-15T00:00:00Z,65,White,FL,South,Lethal Injection
+2011-11-16T00:00:00Z,46,Latino,TX,South,Lethal Injection
+2011-11-18T00:00:00Z,54,White,ID,West,Lethal Injection
+2012-05-01T00:00:00Z,49,White,OK,South,Lethal Injection
+2012-01-26T00:00:00Z,39,Latino,TX,South,Lethal Injection
+2012-08-02T00:00:00Z,38,White,MS,South,Lethal Injection
+2012-02-15T00:00:00Z,65,White,FL,South,Lethal Injection
+2012-02-29T00:00:00Z,63,White,AZ,West,Lethal Injection
+2012-02-29T00:00:00Z,41,Latino,TX,South,Lethal Injection
+2012-07-03T00:00:00Z,52,White,TX,South,Lethal Injection
+2012-08-03T00:00:00Z,47,White,AZ,West,Lethal Injection
+2012-03-15T00:00:00Z,46,White,OK,South,Lethal Injection
+2012-03-20T00:00:00Z,35,White,MS,South,Lethal Injection
+2012-03-22T00:00:00Z,61,Black,MS,South,Lethal Injection
+2012-03-28T00:00:00Z,47,Latino,TX,South,Lethal Injection
+2012-12-04T00:00:00Z,58,White,FL,South,Lethal Injection
+2012-04-18T00:00:00Z,49,White,OH,Midwest,Lethal Injection
+2012-04-20T00:00:00Z,28,Black,DE,South,Lethal Injection
+2012-04-25T00:00:00Z,63,White,AZ,West,Lethal Injection
+2012-04-26T00:00:00Z,29,Black,TX,South,Lethal Injection
+2012-01-05T00:00:00Z,57,White,OK,South,Lethal Injection
+2012-05-06T00:00:00Z,47,Black,MS,South,Lethal Injection
+2012-12-06T00:00:00Z,53,White,ID,West,Lethal Injection
+2012-12-06T00:00:00Z,34,White,MS,South,Lethal Injection
+2012-06-20T00:00:00Z,49,White,MS,South,Lethal Injection
+2012-06-27T00:00:00Z,49,Latino,AZ,West,Lethal Injection
+2012-07-18T00:00:00Z,33,Black,TX,South,Lethal Injection
+2012-07-08T00:00:00Z,54,Black,TX,South,Lethal Injection
+2012-08-08T00:00:00Z,51,White,AZ,West,Lethal Injection
+2012-08-14T00:00:00Z,40,White,OK,South,Lethal Injection
+2012-09-20T00:00:00Z,40,Black,TX,South,Lethal Injection
+2012-09-20T00:00:00Z,47,White,OH,Midwest,Lethal Injection
+2012-09-25T00:00:00Z,47,White,TX,South,Lethal Injection
+2012-10-10T00:00:00Z,44,Black,TX,South,Lethal Injection
+2012-10-15T00:00:00Z,50,White,SD,Midwest,Lethal Injection
+2012-10-24T00:00:00Z,24,White,TX,South,Lethal Injection
+2012-10-30T00:00:00Z,60,White,SD,Midwest,Lethal Injection
+2012-10-31T00:00:00Z,41,White,TX,South,Lethal Injection
+2012-06-11T00:00:00Z,56,Black,OK,South,Lethal Injection
+2012-08-11T00:00:00Z,33,Black,TX,South,Lethal Injection
+2012-11-13T00:00:00Z,38,White,OH,Midwest,Lethal Injection
+2012-11-14T00:00:00Z,41,Latino,TX,South,Lethal Injection
+2012-11-15T00:00:00Z,46,Black,TX,South,Lethal Injection
+2012-04-12T00:00:00Z,38,Latino,OK,South,Lethal Injection
+2012-05-12T00:00:00Z,60,White,AZ,West,Lethal Injection
+2012-11-12T00:00:00Z,56,Latino,FL,South,Lethal Injection
+2013-01-16T00:00:00Z,42,White,VA,South,Electrocution
+2013-02-21T00:00:00Z,48,Black,TX,South,Lethal Injection
+2013-02-21T00:00:00Z,38,White,GA,South,Lethal Injection
+2013-06-03T00:00:00Z,48,White,OH,Midwest,Lethal Injection
+2013-12-03T00:00:00Z,42,White,OK,South,Lethal Injection
+2013-09-04T00:00:00Z,50,Black,TX,South,Lethal Injection
+2013-10-04T00:00:00Z,59,White,FL,South,Lethal Injection
+2013-04-16T00:00:00Z,40,Black,TX,South,Lethal Injection
+2013-04-25T00:00:00Z,29,White,TX,South,Lethal Injection
+2013-01-05T00:00:00Z,46,White,OH,Midwest,Lethal Injection
+2013-07-05T00:00:00Z,35,Black,TX,South,Lethal Injection
+2013-05-15T00:00:00Z,37,Black,TX,South,Lethal Injection
+2013-05-29T00:00:00Z,56,White,FL,South,Lethal Injection
+2013-12-06T00:00:00Z,44,Black,TX,South,Lethal Injection
+2013-12-06T00:00:00Z,58,White,FL,South,Lethal Injection
+2013-06-18T00:00:00Z,36,White,OK,South,Lethal Injection
+2013-06-25T00:00:00Z,39,Black,OK,South,Lethal Injection
+2013-06-26T00:00:00Z,52,Black,TX,South,Lethal Injection
+2013-07-16T00:00:00Z,36,Latino,TX,South,Lethal Injection
+2013-07-18T00:00:00Z,41,Black,TX,South,Lethal Injection
+2013-07-25T00:00:00Z,29,White,AL,South,Lethal Injection
+2013-07-31T00:00:00Z,55,White,TX,South,Lethal Injection
+2013-05-08T00:00:00Z,65,Black,FL,South,Lethal Injection
+2013-10-09T00:00:00Z,60,Black,OK,South,Lethal Injection
+2013-09-19T00:00:00Z,30,Latino,TX,South,Lethal Injection
+2013-09-25T00:00:00Z,61,White,OH,Midwest,Lethal Injection
+2013-09-26T00:00:00Z,37,Latino,TX,South,Lethal Injection
+2013-01-10T00:00:00Z,50,White,FL,South,Lethal Injection
+2013-09-10T00:00:00Z,71,White,AZ,West,Lethal Injection
+2013-09-10T00:00:00Z,43,White,TX,South,Lethal Injection
+2013-10-15T00:00:00Z,51,White,FL,South,Lethal Injection
+2013-10-23T00:00:00Z,43,White,AZ,West,Lethal Injection
+2013-12-11T00:00:00Z,40,Black,FL,South,Lethal Injection
+2013-12-11T00:00:00Z,49,White,TX,South,Lethal Injection
+2013-11-20T00:00:00Z,63,White,MO,Midwest,Lethal Injection
+2013-03-12T00:00:00Z,43,White,TX,South,Lethal Injection
+2013-10-12T00:00:00Z,53,Black,OK,South,Lethal Injection
+2013-11-12T00:00:00Z,41,White,MO,Midwest,Lethal Injection
+2013-12-17T00:00:00Z,48,White,OK,South,Lethal Injection
+2014-07-01T00:00:00Z,62,Black,FL,South,Lethal Injection
+2014-09-01T00:00:00Z,38,Black,OK,South,Lethal Injection
+2014-01-16T00:00:00Z,53,White,OH,Midwest,Lethal Injection
+2014-01-22T00:00:00Z,46,Latino,TX,South,Lethal Injection
+2014-01-23T00:00:00Z,52,White,OK,South,Lethal Injection
+2014-01-29T00:00:00Z,56,Black,MO,Midwest,Lethal Injection
+2014-05-02T00:00:00Z,59,White,TX,South,Lethal Injection
+2014-12-02T00:00:00Z,46,Latino,FL,South,Lethal Injection
+2014-02-26T00:00:00Z,47,Black,MO,Midwest,Lethal Injection
+2014-02-26T00:00:00Z,48,Black,FL,South,Lethal Injection
+2014-03-19T00:00:00Z,33,Black,TX,South,Lethal Injection
+2014-03-20T00:00:00Z,55,Black,FL,South,Lethal Injection
+2014-03-26T00:00:00Z,59,White,MO,Midwest,Lethal Injection
+2014-03-27T00:00:00Z,29,Black,TX,South,Lethal Injection
+2014-03-04T00:00:00Z,49,White,TX,South,Lethal Injection
+2014-09-04T00:00:00Z,44,Latino,TX,South,Lethal Injection
+2014-04-16T00:00:00Z,39,Latino,TX,South,Lethal Injection
+2014-04-23T00:00:00Z,57,White,MO,Midwest,Lethal Injection
+2014-04-23T00:00:00Z,47,White,FL,South,Lethal Injection
+2014-04-29T00:00:00Z,38,Black,OK,South,Lethal Injection
+2014-06-17T00:00:00Z,58,Black,GA,South,Lethal Injection
+2014-06-18T00:00:00Z,63,Black,FL,South,Lethal Injection
+2014-06-18T00:00:00Z,46,Black,MO,Midwest,Lethal Injection
+2014-10-07T00:00:00Z,45,White,FL,South,Lethal Injection
+2014-07-16T00:00:00Z,54,White,MO,Midwest,Lethal Injection
+2014-07-23T00:00:00Z,55,White,AZ,West,Lethal Injection
+2014-06-08T00:00:00Z,43,White,MO,Midwest,Lethal Injection
+2014-10-09T00:00:00Z,45,Black,TX,South,Lethal Injection
+2014-10-09T00:00:00Z,40,Black,MO,Midwest,Lethal Injection
+2014-09-17T00:00:00Z,38,Black,TX,South,Lethal Injection
+2014-10-28T00:00:00Z,32,Latino,TX,South,Lethal Injection
+2014-11-13T00:00:00Z,43,Black,FL,South,Lethal Injection
+2014-11-19T00:00:00Z,56,Black,MO,Midwest,Lethal Injection
+2014-09-12T00:00:00Z,49,Black,GA,South,Lethal Injection
+2014-10-12T00:00:00Z,48,White,MO,Midwest,Lethal Injection
+2015-01-13T00:00:00Z,66,White,GA,South,Lethal Injection
+2015-01-15T00:00:00Z,47,Black,OK,South,Lethal Injection
+2015-01-15T00:00:00Z,42,White,FL,South,Lethal Injection
+2015-01-21T00:00:00Z,41,Latino,TX,South,Lethal Injection
+2015-01-27T00:00:00Z,54,Black,GA,South,Lethal Injection
+2015-01-29T00:00:00Z,57,Black,TX,South,Lethal Injection
+2015-04-02T00:00:00Z,52,White,TX,South,Lethal Injection
+2015-11-02T00:00:00Z,47,White,MO,Midwest,Lethal Injection
+2015-11-03T00:00:00Z,46,Latino,TX,South,Lethal Injection
+2015-03-17T00:00:00Z,74,White,MO,Midwest,Lethal Injection
+2015-09-04T00:00:00Z,42,White,TX,South,Lethal Injection
+2015-04-14T00:00:00Z,52,Black,MO,Midwest,Lethal Injection
+2015-04-15T00:00:00Z,34,Latino,TX,South,Lethal Injection
+2015-12-05T00:00:00Z,32,Black,TX,South,Lethal Injection
+2015-03-06T00:00:00Z,67,White,TX,South,Lethal Injection
+2015-09-06T00:00:00Z,47,Black,MO,Midwest,Lethal Injection
+2015-06-18T00:00:00Z,45,Black,TX,South,Lethal Injection
+2015-07-14T00:00:00Z,55,White,MO,Midwest,Lethal Injection
+2015-12-08T00:00:00Z,27,Latino,TX,South,Lethal Injection
+2015-01-09T00:00:00Z,50,Black,MO,Midwest,Lethal Injection
+2015-09-30T00:00:00Z,47,White,GA,South,Lethal Injection
+2015-01-10T00:00:00Z,49,Latino,VA,South,Lethal Injection
+2015-06-10T00:00:00Z,35,Latino,TX,South,Lethal Injection
+2015-10-14T00:00:00Z,33,Latino,TX,South,Lethal Injection
+2015-10-29T00:00:00Z,59,White,FL,South,Lethal Injection
+2015-11-18T00:00:00Z,36,Black,TX,South,Lethal Injection
+2015-11-19T00:00:00Z,50,White,GA,South,Lethal Injection
+2015-09-12T00:00:00Z,47,Black,GA,South,Lethal Injection
+2016-07-01T00:00:00Z,53,White,FL,South,Lethal Injection
+2016-01-20T00:00:00Z,43,White,TX,South,Lethal Injection
+2016-01-21T00:00:00Z,43,White,AL,South,Lethal Injection
+2016-01-27T00:00:00Z,35,White,TX,South,Lethal Injection
+2016-03-02T00:00:00Z,72,Black,GA,South,Lethal Injection
+2016-02-16T00:00:00Z,43,Latino,TX,South,Lethal Injection
+2016-02-17T00:00:00Z,45,White,GA,South,Lethal Injection
+2016-09-03T00:00:00Z,58,White,TX,South,Lethal Injection
+2016-03-22T00:00:00Z,33,White,TX,South,Lethal Injection
+2016-03-31T00:00:00Z,41,White,GA,South,Lethal Injection
+2016-06-04T00:00:00Z,38,Latino,TX,South,Lethal Injection
+2016-12-04T00:00:00Z,47,Black,GA,South,Lethal Injection
+2016-04-27T00:00:00Z,37,White,GA,South,Lethal Injection
+2016-11-05T00:00:00Z,66,White,MO,Midwest,Lethal Injection
+2016-07-15T00:00:00Z,60,White,GA,South,Lethal Injection
+2016-05-10T00:00:00Z,53,White,TX,South,Lethal Injection
+2016-10-19T00:00:00Z,63,White,GA,South,Lethal Injection
+2016-11-16T00:00:00Z,54,White,GA,South,Lethal Injection
+2016-06-12T00:00:00Z,50,White,GA,South,Lethal Injection
+2016-08-12T00:00:00Z,45,White,AL,South,Lethal Injection
